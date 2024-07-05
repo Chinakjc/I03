@@ -1,0 +1,343 @@
+
+OpenMP Coarse Grain Computation using 1 thread(s)
+
+Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+Point indices :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+It. max :  10
+Dt :       6.21887e-07
+
+
+  temps init     0.279126 s
+
+iteration     0  variation      60001.3  temps calcul   0.578738 s
+
+thread 0: 1 - 399 (399 lines)
+
+iteration     1  variation      94084.3  temps calcul   0.573667 s
+iteration     2  variation       119380  temps calcul   0.569472 s
+iteration     3  variation       139991  temps calcul   0.604651 s
+iteration     4  variation       157754  temps calcul   0.598142 s
+iteration     5  variation       173581  temps calcul   0.568657 s
+iteration     6  variation       187997  temps calcul   0.567199 s
+iteration     7  variation       201328  temps calcul   0.572208 s
+
+thread 0: 1 - 399 (399 lines)
+
+iteration     8  variation       213793  temps calcul    0.59326 s
+iteration     9  variation       225544  temps calcul   0.600356 s
+
+             temps total      6.1088 s
+
+
+OpenMP Coarse Grain Computation using 1 thread(s)
+
+Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+Point indices :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+It. max :  10
+Dt :       6.21887e-07
+
+
+  temps init     0.275439 s
+
+iteration     0  variation      60001.3  temps calcul   0.571842 s
+
+thread 0: 1 - 399 (399 lines)
+
+iteration     1  variation      94084.3  temps calcul   0.593651 s
+iteration     2  variation       119380  temps calcul   0.592287 s
+iteration     3  variation       139991  temps calcul   0.584204 s
+iteration     4  variation       157754  temps calcul   0.593217 s
+iteration     5  variation       173581  temps calcul   0.591376 s
+iteration     6  variation       187997  temps calcul   0.586403 s
+iteration     7  variation       201328  temps calcul   0.592324 s
+
+thread 0: 1 - 399 (399 lines)
+
+iteration     8  variation       213793  temps calcul   0.618773 s
+iteration     9  variation       225544  temps calcul   0.581883 s
+
+             temps total     6.18387 s
+
+
+OpenMP Coarse Grain Computation using 2 thread(s)
+
+Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+Point indices :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+It. max :  10
+Dt :       6.21887e-07
+
+
+  temps init     0.277102 s
+
+iteration     0  variation      60001.3  temps calcul   0.502137 s
+
+thread 0: 1 - 74 (74 lines)
+thread 1: 75 - 399 (325 lines)
+
+iteration     1  variation      94084.3  temps calcul   0.307646 s
+iteration     2  variation       119380  temps calcul   0.332184 s
+iteration     3  variation       139991  temps calcul    0.31909 s
+iteration     4  variation       157754  temps calcul   0.292865 s
+iteration     5  variation       173581  temps calcul   0.294206 s
+iteration     6  variation       187997  temps calcul   0.296957 s
+iteration     7  variation       201328  temps calcul   0.299517 s
+
+thread 0: 1 - 76 (76 lines)
+thread 1: 77 - 399 (323 lines)
+
+iteration     8  variation       213793  temps calcul   0.305931 s
+iteration     9  variation       225544  temps calcul   0.304068 s
+
+             temps total     3.53425 s
+
+
+OpenMP Coarse Grain Computation using 3 thread(s)
+
+Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+Point indices :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+It. max :  10
+Dt :       6.21887e-07
+
+
+  temps init       0.2902 s
+
+iteration     0  variation      60001.3  temps calcul   0.530494 s
+
+thread 0: 1 - 45 (45 lines)
+thread 1: 46 - 96 (51 lines)
+thread 2: 97 - 399 (303 lines)
+
+iteration     1  variation      94084.3  temps calcul    0.24791 s
+iteration     2  variation       119380  temps calcul   0.218648 s
+iteration     3  variation       139991  temps calcul   0.214772 s
+iteration     4  variation       157754  temps calcul   0.215836 s
+iteration     5  variation       173581  temps calcul   0.217593 s
+iteration     6  variation       187997  temps calcul   0.211968 s
+iteration     7  variation       201328  temps calcul    0.20794 s
+
+thread 0: 1 - 50 (50 lines)
+thread 1: 51 - 99 (49 lines)
+thread 2: 100 - 399 (300 lines)
+
+iteration     8  variation       213793  temps calcul   0.200574 s
+iteration     9  variation       225544  temps calcul   0.202375 s
+
+             temps total     2.76112 s
+
+
+OpenMP Coarse Grain Computation using 4 thread(s)
+
+Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+Point indices :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+It. max :  10
+Dt :       6.21887e-07
+
+
+  temps init     0.306351 s
+
+iteration     0  variation      60001.3  temps calcul   0.409752 s
+
+thread 0: 1 - 38 (38 lines)
+thread 1: 39 - 75 (37 lines)
+thread 2: 76 - 111 (36 lines)
+thread 3: 112 - 399 (288 lines)
+
+iteration     1  variation      94084.3  temps calcul   0.161422 s
+iteration     2  variation       119380  temps calcul   0.164461 s
+iteration     3  variation       139991  temps calcul     0.1681 s
+iteration     4  variation       157754  temps calcul   0.156371 s
+iteration     5  variation       173581  temps calcul   0.158305 s
+iteration     6  variation       187997  temps calcul   0.157328 s
+iteration     7  variation       201328  temps calcul   0.159088 s
+
+thread 0: 1 - 37 (37 lines)
+thread 1: 38 - 73 (36 lines)
+thread 2: 74 - 110 (37 lines)
+thread 3: 111 - 399 (289 lines)
+
+iteration     8  variation       213793  temps calcul   0.155093 s
+iteration     9  variation       225544  temps calcul   0.157071 s
+
+             temps total     2.15593 s
+
+
+OpenMP Coarse Grain Computation using 5 thread(s)
+
+Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+Point indices :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+It. max :  10
+Dt :       6.21887e-07
+
+
+  temps init     0.309232 s
+
+iteration     0  variation      60001.3  temps calcul   0.352864 s
+
+thread 0: 1 - 31 (31 lines)
+thread 1: 32 - 62 (31 lines)
+thread 2: 63 - 89 (27 lines)
+thread 3: 90 - 119 (30 lines)
+thread 4: 120 - 399 (280 lines)
+
+iteration     1  variation      94084.3  temps calcul   0.133995 s
+iteration     2  variation       119380  temps calcul    0.13821 s
+iteration     3  variation       139991  temps calcul   0.133767 s
+iteration     4  variation       157754  temps calcul   0.133006 s
+iteration     5  variation       173581  temps calcul   0.129131 s
+iteration     6  variation       187997  temps calcul   0.129157 s
+iteration     7  variation       201328  temps calcul   0.130207 s
+
+thread 0: 1 - 31 (31 lines)
+thread 1: 32 - 60 (29 lines)
+thread 2: 61 - 88 (28 lines)
+thread 3: 89 - 118 (30 lines)
+thread 4: 119 - 399 (281 lines)
+
+iteration     8  variation       213793  temps calcul    0.13922 s
+iteration     9  variation       225544  temps calcul    0.13539 s
+
+             temps total     1.86703 s
+
+
+OpenMP Coarse Grain Computation using 6 thread(s)
+
+Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+Point indices :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+It. max :  10
+Dt :       6.21887e-07
+
+
+  temps init     0.275496 s
+
+iteration     0  variation      60001.3  temps calcul   0.296597 s
+
+thread 0: 1 - 26 (26 lines)
+thread 1: 27 - 52 (26 lines)
+thread 2: 53 - 77 (25 lines)
+thread 3: 78 - 103 (26 lines)
+thread 4: 104 - 199 (96 lines)
+thread 5: 200 - 399 (200 lines)
+
+iteration     1  variation      94084.3  temps calcul   0.127633 s
+iteration     2  variation       119380  temps calcul    0.11063 s
+iteration     3  variation       139991  temps calcul   0.112742 s
+iteration     4  variation       157754  temps calcul   0.111788 s
+iteration     5  variation       173581  temps calcul   0.110646 s
+iteration     6  variation       187997  temps calcul   0.110504 s
+iteration     7  variation       201328  temps calcul   0.111003 s
+
+thread 0: 1 - 26 (26 lines)
+thread 1: 27 - 51 (25 lines)
+thread 2: 52 - 76 (25 lines)
+thread 3: 77 - 100 (24 lines)
+thread 4: 101 - 170 (70 lines)
+thread 5: 171 - 399 (229 lines)
+
+iteration     8  variation       213793  temps calcul   0.114044 s
+iteration     9  variation       225544  temps calcul   0.111597 s
+
+             temps total     1.59559 s
+
+
+OpenMP Coarse Grain Computation using 7 thread(s)
+
+Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+Point indices :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+It. max :  10
+Dt :       6.21887e-07
+
+
+  temps init     0.311571 s
+
+iteration     0  variation      60001.3  temps calcul   0.249104 s
+
+thread 0: 1 - 22 (22 lines)
+thread 1: 23 - 44 (22 lines)
+thread 2: 45 - 66 (22 lines)
+thread 3: 67 - 88 (22 lines)
+thread 4: 89 - 111 (23 lines)
+thread 5: 112 - 236 (125 lines)
+thread 6: 237 - 399 (163 lines)
+
+iteration     1  variation      94084.3  temps calcul   0.106132 s
+iteration     2  variation       119380  temps calcul    0.10287 s
+iteration     3  variation       139991  temps calcul    0.10276 s
+iteration     4  variation       157754  temps calcul    0.10168 s
+iteration     5  variation       173581  temps calcul   0.100191 s
+iteration     6  variation       187997  temps calcul  0.0999286 s
+iteration     7  variation       201328  temps calcul   0.104609 s
+
+thread 0: 1 - 22 (22 lines)
+thread 1: 23 - 43 (21 lines)
+thread 2: 44 - 64 (21 lines)
+thread 3: 65 - 85 (21 lines)
+thread 4: 86 - 107 (22 lines)
+thread 5: 108 - 206 (99 lines)
+thread 6: 207 - 399 (193 lines)
+
+iteration     8  variation       213793  temps calcul   0.105578 s
+iteration     9  variation       225544  temps calcul  0.0968158 s
+
+             temps total     1.48412 s
+
+
+OpenMP Coarse Grain Computation using 8 thread(s)
+
+Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+Point indices :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+It. max :  10
+Dt :       6.21887e-07
+
+
+  temps init     0.303315 s
+
+iteration     0  variation      60001.3  temps calcul   0.303374 s
+
+thread 0: 1 - 20 (20 lines)
+thread 1: 21 - 40 (20 lines)
+thread 2: 41 - 60 (20 lines)
+thread 3: 61 - 80 (20 lines)
+thread 4: 81 - 101 (21 lines)
+thread 5: 102 - 119 (18 lines)
+thread 6: 120 - 272 (153 lines)
+thread 7: 273 - 399 (127 lines)
+
+iteration     1  variation      94084.3  temps calcul   0.105828 s
+iteration     2  variation       119380  temps calcul   0.106765 s
+iteration     3  variation       139991  temps calcul   0.106429 s
+iteration     4  variation       157754  temps calcul   0.101836 s
+iteration     5  variation       173581  temps calcul    0.09562 s
+iteration     6  variation       187997  temps calcul  0.0948431 s
+iteration     7  variation       201328  temps calcul  0.0959884 s
+
+thread 0: 1 - 20 (20 lines)
+thread 1: 21 - 38 (18 lines)
+thread 2: 39 - 57 (19 lines)
+thread 3: 58 - 76 (19 lines)
+thread 4: 77 - 94 (18 lines)
+thread 5: 95 - 112 (18 lines)
+thread 6: 113 - 232 (120 lines)
+thread 7: 233 - 399 (167 lines)
+
+iteration     8  variation       213793  temps calcul  0.0902455 s
+iteration     9  variation       225544  temps calcul  0.0891667 s
+
+             temps total     1.49737 s
+
+
+last diff (sequential) =   225544.000
+
+threads   :           1           2           3           4           5           6           7           8
+temps     :       6.184       3.534       2.761       2.156       1.867       1.596       1.484       1.497
+speedups  :       1.000       1.750       2.240       2.868       3.312       3.876       4.167       4.130
+last diff :  225544.000  225544.000  225544.000  225544.000  225544.000  225544.000  225544.000  225544.000
+
