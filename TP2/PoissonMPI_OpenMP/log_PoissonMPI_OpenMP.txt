@@ -1,0 +1,235 @@
+Processes : 1
+Threads   : 1 thread(s)
+
+It. max   : 10
+Dt        : 6.21887e-07
+
+Process 0
+  Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+  temps init     0.231994 s
+
+iteration     0  variation      60005.3  temps calcul    1.62823 s  comm.   0.001529 s
+iteration     1  variation        34087  temps calcul    1.71172 s  comm.  0.0013697 s
+iteration     2  variation      25299.5  temps calcul    1.64393 s  comm.  0.0014186 s
+iteration     3  variation      20614.9  temps calcul     1.6304 s  comm.  0.0014221 s
+iteration     4  variation      17766.9  temps calcul    1.73412 s  comm.  0.0013579 s
+iteration     5  variation      15831.4  temps calcul    1.77459 s  comm.  0.0018116 s
+iteration     6  variation      14419.7  temps calcul    1.62801 s  comm.  0.0014556 s
+iteration     7  variation      13334.8  temps calcul     1.7015 s  comm.  0.0014072 s
+iteration     8  variation      12468.4  temps calcul    1.70483 s  comm.  0.0015583 s
+iteration     9  variation      11755.6  temps calcul    1.69969 s  comm.  0.0014271 s
+
+             temps total     17.1506 s
+
+Processes : 1
+Threads   : 16 thread(s)
+
+It. max   : 10
+Dt        : 6.21887e-07
+
+Process 0
+  Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+  temps init     0.234669 s
+
+iteration     0  variation      60005.3  temps calcul   0.310927 s  comm.  0.0013773 s
+iteration     1  variation        34087  temps calcul   0.191997 s  comm.  0.0017126 s
+iteration     2  variation      25299.5  temps calcul   0.188904 s  comm.  0.0016533 s
+iteration     3  variation      20614.9  temps calcul   0.190376 s  comm.  0.0016701 s
+iteration     4  variation      17766.9  temps calcul   0.195324 s  comm.  0.0017139 s
+iteration     5  variation      15831.4  temps calcul   0.193494 s  comm.   0.001622 s
+iteration     6  variation      14419.7  temps calcul   0.193054 s  comm.  0.0017283 s
+iteration     7  variation      13334.8  temps calcul   0.188608 s  comm.  0.0015299 s
+iteration     8  variation      12468.4  temps calcul   0.184687 s  comm.  0.0016047 s
+iteration     9  variation      11755.6  temps calcul   0.194258 s  comm.  0.0016984 s
+
+             temps total     2.33351 s
+
+Processes : 2
+Threads   : 8 thread(s)
+
+It. max   : 10
+Dt        : 6.21887e-07
+
+Process 0
+  Internal domain :   [0.0025, 0.4975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [1 ... 199] x [1 ... 399] x [1 ... 399]
+Process 1
+  Internal domain :   [0.5, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [200 ... 399] x [1 ... 399] x [1 ... 399]
+
+  temps init     0.136172 s
+
+iteration     0  variation      60005.3  temps calcul   0.196493 s  comm.  0.0025498 s
+iteration     1  variation        34087  temps calcul   0.192242 s  comm.  0.0022225 s
+iteration     2  variation      25299.5  temps calcul   0.192482 s  comm.  0.0026171 s
+iteration     3  variation      20614.9  temps calcul   0.194887 s  comm.  0.0026265 s
+iteration     4  variation      17766.9  temps calcul   0.198142 s  comm.  0.0026588 s
+iteration     5  variation      15831.4  temps calcul   0.203046 s  comm.  0.0025471 s
+iteration     6  variation      14419.7  temps calcul   0.203246 s  comm.  0.0023192 s
+iteration     7  variation      13334.8  temps calcul   0.196766 s  comm.  0.0027009 s
+iteration     8  variation      12468.4  temps calcul   0.192577 s  comm.  0.0024458 s
+iteration     9  variation      11755.6  temps calcul   0.196916 s  comm.  0.0023615 s
+
+             temps total     2.23599 s
+
+Processes : 4
+Threads   : 4 thread(s)
+
+It. max   : 10
+Dt        : 6.21887e-07
+
+Process 0
+  Internal domain :   [0.0025, 0.2475] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [1 ... 99] x [1 ... 399] x [1 ... 399]
+Process 1
+  Internal domain :   [0.25, 0.495] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [100 ... 198] x [1 ... 399] x [1 ... 399]
+Process 2
+  Internal domain :   [0.4975, 0.7425] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [199 ... 297] x [1 ... 399] x [1 ... 399]
+Process 3
+  Internal domain :   [0.745, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [298 ... 399] x [1 ... 399] x [1 ... 399]
+
+  temps init    0.0926662 s
+
+iteration     0  variation      60005.3  temps calcul   0.203147 s  comm.  0.0023591 s
+iteration     1  variation        34087  temps calcul   0.196105 s  comm.  0.0021996 s
+iteration     2  variation      25299.5  temps calcul   0.207017 s  comm.  0.0021908 s
+iteration     3  variation      20614.9  temps calcul   0.195309 s  comm.  0.0023609 s
+iteration     4  variation      17766.9  temps calcul   0.202904 s  comm.   0.002216 s
+iteration     5  variation      15831.4  temps calcul   0.210725 s  comm.  0.0020414 s
+iteration     6  variation      14419.7  temps calcul     0.2097 s  comm.  0.0026697 s
+iteration     7  variation      13334.8  temps calcul   0.194406 s  comm.  0.0019406 s
+iteration     8  variation      12468.4  temps calcul   0.192147 s  comm.  0.0022383 s
+iteration     9  variation      11755.6  temps calcul   0.203294 s  comm.  0.0022813 s
+
+             temps total     2.22403 s
+
+Processes : 8
+Threads   : 2 thread(s)
+
+It. max   : 10
+Dt        : 6.21887e-07
+
+Process 0
+  Internal domain :   [0.0025, 0.1225] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [1 ... 49] x [1 ... 399] x [1 ... 399]
+Process 1
+  Internal domain :   [0.125, 0.245] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [50 ... 98] x [1 ... 399] x [1 ... 399]
+Process 2
+  Internal domain :   [0.2475, 0.3675] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [99 ... 147] x [1 ... 399] x [1 ... 399]
+Process 3
+  Internal domain :   [0.37, 0.49] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [148 ... 196] x [1 ... 399] x [1 ... 399]
+Process 4
+  Internal domain :   [0.4925, 0.6125] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [197 ... 245] x [1 ... 399] x [1 ... 399]
+Process 5
+  Internal domain :   [0.615, 0.735] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [246 ... 294] x [1 ... 399] x [1 ... 399]
+Process 6
+  Internal domain :   [0.7375, 0.8575] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [295 ... 343] x [1 ... 399] x [1 ... 399]
+Process 7
+  Internal domain :   [0.86, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [344 ... 399] x [1 ... 399] x [1 ... 399]
+
+  temps init    0.0868875 s
+
+iteration     0  variation      60005.3  temps calcul   0.201456 s  comm.  0.0022874 s
+iteration     1  variation        34087  temps calcul   0.198622 s  comm.   0.002017 s
+iteration     2  variation      25299.5  temps calcul    0.20006 s  comm.  0.0019874 s
+iteration     3  variation      20614.9  temps calcul   0.192901 s  comm.  0.0021426 s
+iteration     4  variation      17766.9  temps calcul   0.215987 s  comm.  0.0020852 s
+iteration     5  variation      15831.4  temps calcul   0.226336 s  comm.  0.0018579 s
+iteration     6  variation      14419.7  temps calcul   0.217611 s  comm.  0.0023423 s
+iteration     7  variation      13334.8  temps calcul   0.242804 s  comm.  0.0022698 s
+iteration     8  variation      12468.4  temps calcul   0.206443 s  comm.  0.0020273 s
+iteration     9  variation      11755.6  temps calcul   0.203823 s  comm.  0.0019222 s
+
+             temps total     2.52786 s
+
+Processes : 16
+Threads   : 1 thread(s)
+
+It. max   : 10
+Dt        : 6.21887e-07
+
+Process 0
+  Internal domain :   [0.0025, 0.06] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [1 ... 24] x [1 ... 399] x [1 ... 399]
+Process 1
+  Internal domain :   [0.0625, 0.12] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [25 ... 48] x [1 ... 399] x [1 ... 399]
+Process 2
+  Internal domain :   [0.1225, 0.18] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [49 ... 72] x [1 ... 399] x [1 ... 399]
+Process 3
+  Internal domain :   [0.1825, 0.24] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [73 ... 96] x [1 ... 399] x [1 ... 399]
+Process 4
+  Internal domain :   [0.2425, 0.3] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [97 ... 120] x [1 ... 399] x [1 ... 399]
+Process 5
+  Internal domain :   [0.3025, 0.36] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [121 ... 144] x [1 ... 399] x [1 ... 399]
+Process 6
+  Internal domain :   [0.3625, 0.42] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [145 ... 168] x [1 ... 399] x [1 ... 399]
+Process 7
+  Internal domain :   [0.4225, 0.48] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [169 ... 192] x [1 ... 399] x [1 ... 399]
+Process 8
+  Internal domain :   [0.4825, 0.54] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [193 ... 216] x [1 ... 399] x [1 ... 399]
+Process 9
+  Internal domain :   [0.5425, 0.6] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [217 ... 240] x [1 ... 399] x [1 ... 399]
+Process 10
+  Internal domain :   [0.6025, 0.66] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [241 ... 264] x [1 ... 399] x [1 ... 399]
+Process 11
+  Internal domain :   [0.6625, 0.72] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [265 ... 288] x [1 ... 399] x [1 ... 399]
+Process 12
+  Internal domain :   [0.7225, 0.78] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [289 ... 312] x [1 ... 399] x [1 ... 399]
+Process 13
+  Internal domain :   [0.7825, 0.84] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [313 ... 336] x [1 ... 399] x [1 ... 399]
+Process 14
+  Internal domain :   [0.8425, 0.9] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [337 ... 360] x [1 ... 399] x [1 ... 399]
+Process 15
+  Internal domain :   [0.9025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+  Point indices   :   [361 ... 399] x [1 ... 399] x [1 ... 399]
+
+  temps init    0.0936261 s
+
+iteration     0  variation      60005.3  temps calcul   0.282326 s  comm.  0.0047647 s
+iteration     1  variation        34087  temps calcul   0.278167 s  comm.  0.0049014 s
+iteration     2  variation      25299.5  temps calcul   0.281244 s  comm.  0.0047017 s
+iteration     3  variation      20614.9  temps calcul   0.287257 s  comm.  0.0043146 s
+iteration     4  variation      17766.9  temps calcul   0.285812 s  comm.  0.0046752 s
+iteration     5  variation      15831.4  temps calcul   0.285953 s  comm.  0.0048392 s
+iteration     6  variation      14419.7  temps calcul   0.286788 s  comm.  0.0049089 s
+iteration     7  variation      13334.8  temps calcul   0.279444 s  comm.  0.0041098 s
+iteration     8  variation      12468.4  temps calcul    0.27987 s  comm.  0.0053939 s
+iteration     9  variation      11755.6  temps calcul   0.284515 s  comm.  0.0048443 s
+
+             temps total      3.4728 s
+
+
+processes :           1           1          16           2           4           8
+threads   :           1          16           1           8           4           2
+temps     :      17.151       2.334       3.473       2.236       2.224       2.528
+speedups  :       1.000       7.350       4.939       7.670       7.711       6.785
+last diff :   11755.559   11755.559   11755.559   11755.559   11755.559   11755.559
+
