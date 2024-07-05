@@ -1,0 +1,23 @@
+GPU (cuda) Computation
+
+Internal domain :   [0.0025, 0.9975] x [0.0025, 0.9975] x [0.0025, 0.9975]
+Point indices   :   [1 ... 399] x [1 ... 399] x [1 ... 399]
+
+It. max :  10
+Dt :       6.21887e-07
+
+
+  temps init     0.583643 s
+
+iteration     0  variation      60005.3  temps calcul   0.202994 s
+iteration     1  variation        34087  temps calcul  0.0528269 s
+iteration     2  variation      25299.5  temps calcul   0.051754 s
+iteration     3  variation      20614.9  temps calcul  0.0516839 s
+iteration     4  variation      17766.9  temps calcul  0.0519256 s
+iteration     5  variation      15831.4  temps calcul  0.0519224 s
+iteration     6  variation      14419.7  temps calcul   0.051739 s
+iteration     7  variation      13334.8  temps calcul  0.0516601 s
+iteration     8  variation      12468.4  temps calcul  0.0534373 s
+iteration     9  variation      11755.6  temps calcul    0.05165 s
+
+             temps total     1.25626 s

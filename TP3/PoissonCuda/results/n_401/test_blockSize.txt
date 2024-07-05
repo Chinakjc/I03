@@ -1,0 +1,2533 @@
+_______________________________
+blockSize = 1
+n = 1, sx = 399, gridSize = 1 efficiency = 100.0 %
+n = 2, sx = 200, gridSize = 2 efficiency = 99.8 %
+n = 3, sx = 133, gridSize = 3 efficiency = 100.0 %
+n = 4, sx = 100, gridSize = 4 efficiency = 99.8 %
+n = 5, sx = 80, gridSize = 5 efficiency = 99.8 %
+n = 6, sx = 67, gridSize = 6 efficiency = 99.3 %
+n = 7, sx = 57, gridSize = 7 efficiency = 100.0 %
+n = 8, sx = 50, gridSize = 8 efficiency = 99.8 %
+n = 9, sx = 45, gridSize = 9 efficiency = 98.5 %
+n = 10, sx = 40, gridSize = 10 efficiency = 99.8 %
+n = 11, sx = 37, gridSize = 11 efficiency = 98.0 %
+n = 12, sx = 34, gridSize = 12 efficiency = 97.8 %
+n = 13, sx = 31, gridSize = 13 efficiency = 99.0 %
+n = 14, sx = 29, gridSize = 14 efficiency = 98.3 %
+n = 15, sx = 27, gridSize = 15 efficiency = 98.5 %
+n = 16, sx = 25, gridSize = 16 efficiency = 99.8 %
+n = 17, sx = 24, gridSize = 17 efficiency = 97.8 %
+n = 18, sx = 23, gridSize = 18 efficiency = 96.4 %
+n = 19, sx = 21, gridSize = 19 efficiency = 100.0 %
+n = 20, sx = 20, gridSize = 20 efficiency = 99.8 %
+n = 21, sx = 19, gridSize = 21 efficiency = 100.0 %
+n = 23, sx = 18, gridSize = 23 efficiency = 96.4 %
+n = 24, sx = 17, gridSize = 24 efficiency = 97.8 %
+n = 25, sx = 16, gridSize = 25 efficiency = 99.8 %
+n = 27, sx = 15, gridSize = 27 efficiency = 98.5 %
+n = 29, sx = 14, gridSize = 29 efficiency = 98.3 %
+n = 31, sx = 13, gridSize = 31 efficiency = 99.0 %
+n = 34, sx = 12, gridSize = 34 efficiency = 97.8 %
+n = 37, sx = 11, gridSize = 37 efficiency = 98.0 %
+n = 40, sx = 10, gridSize = 40 efficiency = 99.8 %
+n = 45, sx = 9, gridSize = 45 efficiency = 98.5 %
+n = 50, sx = 8, gridSize = 50 efficiency = 99.8 %
+n = 57, sx = 7, gridSize = 57 efficiency = 100.0 %
+n = 67, sx = 6, gridSize = 67 efficiency = 99.3 %
+n = 80, sx = 5, gridSize = 80 efficiency = 99.8 %
+n = 100, sx = 4, gridSize = 100 efficiency = 99.8 %
+n = 133, sx = 3, gridSize = 133 efficiency = 100.0 %
+n = 200, sx = 2, gridSize = 200 efficiency = 99.8 %
+n = 399, sx = 1, gridSize = 399 efficiency = 100.0 %
+_______________________________
+blockSize = 2
+n = 1, sx = 200, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 100, gridSize = 2 efficiency = 99.8 %
+n = 3, sx = 67, gridSize = 3 efficiency = 99.3 %
+n = 4, sx = 50, gridSize = 4 efficiency = 99.8 %
+n = 5, sx = 40, gridSize = 5 efficiency = 99.8 %
+n = 6, sx = 34, gridSize = 6 efficiency = 97.8 %
+n = 7, sx = 29, gridSize = 7 efficiency = 98.3 %
+n = 8, sx = 25, gridSize = 8 efficiency = 99.8 %
+n = 9, sx = 23, gridSize = 9 efficiency = 96.4 %
+n = 10, sx = 20, gridSize = 10 efficiency = 99.8 %
+n = 11, sx = 19, gridSize = 11 efficiency = 95.5 %
+n = 12, sx = 17, gridSize = 12 efficiency = 97.8 %
+n = 13, sx = 16, gridSize = 13 efficiency = 95.9 %
+n = 14, sx = 15, gridSize = 14 efficiency = 95.0 %
+n = 15, sx = 14, gridSize = 15 efficiency = 95.0 %
+n = 16, sx = 13, gridSize = 16 efficiency = 95.9 %
+n = 17, sx = 12, gridSize = 17 efficiency = 97.8 %
+n = 19, sx = 11, gridSize = 19 efficiency = 95.5 %
+n = 20, sx = 10, gridSize = 20 efficiency = 99.8 %
+n = 23, sx = 9, gridSize = 23 efficiency = 96.4 %
+n = 25, sx = 8, gridSize = 25 efficiency = 99.8 %
+n = 29, sx = 7, gridSize = 29 efficiency = 98.3 %
+n = 34, sx = 6, gridSize = 34 efficiency = 97.8 %
+n = 40, sx = 5, gridSize = 40 efficiency = 99.8 %
+n = 50, sx = 4, gridSize = 50 efficiency = 99.8 %
+n = 67, sx = 3, gridSize = 67 efficiency = 99.3 %
+n = 100, sx = 2, gridSize = 100 efficiency = 99.8 %
+n = 200, sx = 1, gridSize = 200 efficiency = 99.8 %
+_______________________________
+blockSize = 3
+n = 1, sx = 133, gridSize = 1 efficiency = 100.0 %
+n = 2, sx = 67, gridSize = 2 efficiency = 99.3 %
+n = 3, sx = 45, gridSize = 3 efficiency = 98.5 %
+n = 4, sx = 34, gridSize = 4 efficiency = 97.8 %
+n = 5, sx = 27, gridSize = 5 efficiency = 98.5 %
+n = 6, sx = 23, gridSize = 6 efficiency = 96.4 %
+n = 7, sx = 19, gridSize = 7 efficiency = 100.0 %
+n = 8, sx = 17, gridSize = 8 efficiency = 97.8 %
+n = 9, sx = 15, gridSize = 9 efficiency = 98.5 %
+n = 10, sx = 14, gridSize = 10 efficiency = 95.0 %
+n = 11, sx = 13, gridSize = 11 efficiency = 93.0 %
+n = 12, sx = 12, gridSize = 12 efficiency = 92.4 %
+n = 13, sx = 11, gridSize = 13 efficiency = 93.0 %
+n = 14, sx = 10, gridSize = 14 efficiency = 95.0 %
+n = 15, sx = 9, gridSize = 15 efficiency = 98.5 %
+n = 17, sx = 8, gridSize = 17 efficiency = 97.8 %
+n = 19, sx = 7, gridSize = 19 efficiency = 100.0 %
+n = 23, sx = 6, gridSize = 23 efficiency = 96.4 %
+n = 27, sx = 5, gridSize = 27 efficiency = 98.5 %
+n = 34, sx = 4, gridSize = 34 efficiency = 97.8 %
+n = 45, sx = 3, gridSize = 45 efficiency = 98.5 %
+n = 67, sx = 2, gridSize = 67 efficiency = 99.3 %
+n = 133, sx = 1, gridSize = 133 efficiency = 100.0 %
+_______________________________
+blockSize = 4
+n = 1, sx = 100, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 50, gridSize = 2 efficiency = 99.8 %
+n = 3, sx = 34, gridSize = 3 efficiency = 97.8 %
+n = 4, sx = 25, gridSize = 4 efficiency = 99.8 %
+n = 5, sx = 20, gridSize = 5 efficiency = 99.8 %
+n = 6, sx = 17, gridSize = 6 efficiency = 97.8 %
+n = 7, sx = 15, gridSize = 7 efficiency = 95.0 %
+n = 8, sx = 13, gridSize = 8 efficiency = 95.9 %
+n = 9, sx = 12, gridSize = 9 efficiency = 92.4 %
+n = 10, sx = 10, gridSize = 10 efficiency = 99.8 %
+n = 12, sx = 9, gridSize = 12 efficiency = 92.4 %
+n = 13, sx = 8, gridSize = 13 efficiency = 95.9 %
+n = 15, sx = 7, gridSize = 15 efficiency = 95.0 %
+n = 17, sx = 6, gridSize = 17 efficiency = 97.8 %
+n = 20, sx = 5, gridSize = 20 efficiency = 99.8 %
+n = 25, sx = 4, gridSize = 25 efficiency = 99.8 %
+n = 34, sx = 3, gridSize = 34 efficiency = 97.8 %
+n = 50, sx = 2, gridSize = 50 efficiency = 99.8 %
+n = 100, sx = 1, gridSize = 100 efficiency = 99.8 %
+_______________________________
+blockSize = 5
+n = 1, sx = 80, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 40, gridSize = 2 efficiency = 99.8 %
+n = 3, sx = 27, gridSize = 3 efficiency = 98.5 %
+n = 4, sx = 20, gridSize = 4 efficiency = 99.8 %
+n = 5, sx = 16, gridSize = 5 efficiency = 99.8 %
+n = 6, sx = 14, gridSize = 6 efficiency = 95.0 %
+n = 7, sx = 12, gridSize = 7 efficiency = 95.0 %
+n = 8, sx = 10, gridSize = 8 efficiency = 99.8 %
+n = 9, sx = 9, gridSize = 9 efficiency = 98.5 %
+n = 10, sx = 8, gridSize = 10 efficiency = 99.8 %
+n = 12, sx = 7, gridSize = 12 efficiency = 95.0 %
+n = 14, sx = 6, gridSize = 14 efficiency = 95.0 %
+n = 16, sx = 5, gridSize = 16 efficiency = 99.8 %
+n = 20, sx = 4, gridSize = 20 efficiency = 99.8 %
+n = 27, sx = 3, gridSize = 27 efficiency = 98.5 %
+n = 40, sx = 2, gridSize = 40 efficiency = 99.8 %
+n = 80, sx = 1, gridSize = 80 efficiency = 99.8 %
+_______________________________
+blockSize = 6
+n = 1, sx = 67, gridSize = 1 efficiency = 99.3 %
+n = 2, sx = 34, gridSize = 2 efficiency = 97.8 %
+n = 3, sx = 23, gridSize = 3 efficiency = 96.4 %
+n = 4, sx = 17, gridSize = 4 efficiency = 97.8 %
+n = 5, sx = 14, gridSize = 5 efficiency = 95.0 %
+n = 6, sx = 12, gridSize = 6 efficiency = 92.4 %
+n = 7, sx = 10, gridSize = 7 efficiency = 95.0 %
+n = 8, sx = 9, gridSize = 8 efficiency = 92.4 %
+n = 9, sx = 8, gridSize = 9 efficiency = 92.4 %
+n = 10, sx = 7, gridSize = 10 efficiency = 95.0 %
+n = 12, sx = 6, gridSize = 12 efficiency = 92.4 %
+n = 14, sx = 5, gridSize = 14 efficiency = 95.0 %
+n = 17, sx = 4, gridSize = 17 efficiency = 97.8 %
+n = 23, sx = 3, gridSize = 23 efficiency = 96.4 %
+n = 34, sx = 2, gridSize = 34 efficiency = 97.8 %
+n = 67, sx = 1, gridSize = 67 efficiency = 99.3 %
+_______________________________
+blockSize = 7
+n = 1, sx = 57, gridSize = 1 efficiency = 100.0 %
+n = 2, sx = 29, gridSize = 2 efficiency = 98.3 %
+n = 3, sx = 19, gridSize = 3 efficiency = 100.0 %
+n = 4, sx = 15, gridSize = 4 efficiency = 95.0 %
+n = 5, sx = 12, gridSize = 5 efficiency = 95.0 %
+n = 6, sx = 10, gridSize = 6 efficiency = 95.0 %
+n = 7, sx = 9, gridSize = 7 efficiency = 90.5 %
+n = 8, sx = 8, gridSize = 8 efficiency = 89.1 %
+n = 9, sx = 7, gridSize = 9 efficiency = 90.5 %
+n = 10, sx = 6, gridSize = 10 efficiency = 95.0 %
+n = 12, sx = 5, gridSize = 12 efficiency = 95.0 %
+n = 15, sx = 4, gridSize = 15 efficiency = 95.0 %
+n = 19, sx = 3, gridSize = 19 efficiency = 100.0 %
+n = 29, sx = 2, gridSize = 29 efficiency = 98.3 %
+n = 57, sx = 1, gridSize = 57 efficiency = 100.0 %
+_______________________________
+blockSize = 8
+n = 1, sx = 50, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 25, gridSize = 2 efficiency = 99.8 %
+n = 3, sx = 17, gridSize = 3 efficiency = 97.8 %
+n = 4, sx = 13, gridSize = 4 efficiency = 95.9 %
+n = 5, sx = 10, gridSize = 5 efficiency = 99.8 %
+n = 6, sx = 9, gridSize = 6 efficiency = 92.4 %
+n = 7, sx = 8, gridSize = 7 efficiency = 89.1 %
+n = 8, sx = 7, gridSize = 8 efficiency = 89.1 %
+n = 9, sx = 6, gridSize = 9 efficiency = 92.4 %
+n = 10, sx = 5, gridSize = 10 efficiency = 99.8 %
+n = 13, sx = 4, gridSize = 13 efficiency = 95.9 %
+n = 17, sx = 3, gridSize = 17 efficiency = 97.8 %
+n = 25, sx = 2, gridSize = 25 efficiency = 99.8 %
+n = 50, sx = 1, gridSize = 50 efficiency = 99.8 %
+_______________________________
+blockSize = 9
+n = 1, sx = 45, gridSize = 1 efficiency = 98.5 %
+n = 2, sx = 23, gridSize = 2 efficiency = 96.4 %
+n = 3, sx = 15, gridSize = 3 efficiency = 98.5 %
+n = 4, sx = 12, gridSize = 4 efficiency = 92.4 %
+n = 5, sx = 9, gridSize = 5 efficiency = 98.5 %
+n = 6, sx = 8, gridSize = 6 efficiency = 92.4 %
+n = 7, sx = 7, gridSize = 7 efficiency = 90.5 %
+n = 8, sx = 6, gridSize = 8 efficiency = 92.4 %
+n = 9, sx = 5, gridSize = 9 efficiency = 98.5 %
+n = 12, sx = 4, gridSize = 12 efficiency = 92.4 %
+n = 15, sx = 3, gridSize = 15 efficiency = 98.5 %
+n = 23, sx = 2, gridSize = 23 efficiency = 96.4 %
+n = 45, sx = 1, gridSize = 45 efficiency = 98.5 %
+_______________________________
+blockSize = 10
+n = 1, sx = 40, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 20, gridSize = 2 efficiency = 99.8 %
+n = 3, sx = 14, gridSize = 3 efficiency = 95.0 %
+n = 4, sx = 10, gridSize = 4 efficiency = 99.8 %
+n = 5, sx = 8, gridSize = 5 efficiency = 99.8 %
+n = 6, sx = 7, gridSize = 6 efficiency = 95.0 %
+n = 7, sx = 6, gridSize = 7 efficiency = 95.0 %
+n = 8, sx = 5, gridSize = 8 efficiency = 99.8 %
+n = 10, sx = 4, gridSize = 10 efficiency = 99.8 %
+n = 14, sx = 3, gridSize = 14 efficiency = 95.0 %
+n = 20, sx = 2, gridSize = 20 efficiency = 99.8 %
+n = 40, sx = 1, gridSize = 40 efficiency = 99.8 %
+_______________________________
+blockSize = 11
+n = 1, sx = 37, gridSize = 1 efficiency = 98.0 %
+n = 2, sx = 19, gridSize = 2 efficiency = 95.5 %
+n = 3, sx = 13, gridSize = 3 efficiency = 93.0 %
+n = 4, sx = 10, gridSize = 4 efficiency = 90.7 %
+n = 5, sx = 8, gridSize = 5 efficiency = 90.7 %
+n = 6, sx = 7, gridSize = 6 efficiency = 86.4 %
+n = 7, sx = 6, gridSize = 7 efficiency = 86.4 %
+n = 8, sx = 5, gridSize = 8 efficiency = 90.7 %
+n = 10, sx = 4, gridSize = 10 efficiency = 90.7 %
+n = 13, sx = 3, gridSize = 13 efficiency = 93.0 %
+n = 19, sx = 2, gridSize = 19 efficiency = 95.5 %
+n = 37, sx = 1, gridSize = 37 efficiency = 98.0 %
+_______________________________
+blockSize = 12
+n = 1, sx = 34, gridSize = 1 efficiency = 97.8 %
+n = 2, sx = 17, gridSize = 2 efficiency = 97.8 %
+n = 3, sx = 12, gridSize = 3 efficiency = 92.4 %
+n = 4, sx = 9, gridSize = 4 efficiency = 92.4 %
+n = 5, sx = 7, gridSize = 5 efficiency = 95.0 %
+n = 6, sx = 6, gridSize = 6 efficiency = 92.4 %
+n = 7, sx = 5, gridSize = 7 efficiency = 95.0 %
+n = 9, sx = 4, gridSize = 9 efficiency = 92.4 %
+n = 12, sx = 3, gridSize = 12 efficiency = 92.4 %
+n = 17, sx = 2, gridSize = 17 efficiency = 97.8 %
+n = 34, sx = 1, gridSize = 34 efficiency = 97.8 %
+_______________________________
+blockSize = 13
+n = 1, sx = 31, gridSize = 1 efficiency = 99.0 %
+n = 2, sx = 16, gridSize = 2 efficiency = 95.9 %
+n = 3, sx = 11, gridSize = 3 efficiency = 93.0 %
+n = 4, sx = 8, gridSize = 4 efficiency = 95.9 %
+n = 5, sx = 7, gridSize = 5 efficiency = 87.7 %
+n = 6, sx = 6, gridSize = 6 efficiency = 85.3 %
+n = 7, sx = 5, gridSize = 7 efficiency = 87.7 %
+n = 8, sx = 4, gridSize = 8 efficiency = 95.9 %
+n = 11, sx = 3, gridSize = 11 efficiency = 93.0 %
+n = 16, sx = 2, gridSize = 16 efficiency = 95.9 %
+n = 31, sx = 1, gridSize = 31 efficiency = 99.0 %
+_______________________________
+blockSize = 14
+n = 1, sx = 29, gridSize = 1 efficiency = 98.3 %
+n = 2, sx = 15, gridSize = 2 efficiency = 95.0 %
+n = 3, sx = 10, gridSize = 3 efficiency = 95.0 %
+n = 4, sx = 8, gridSize = 4 efficiency = 89.1 %
+n = 5, sx = 6, gridSize = 5 efficiency = 95.0 %
+n = 6, sx = 5, gridSize = 6 efficiency = 95.0 %
+n = 8, sx = 4, gridSize = 8 efficiency = 89.1 %
+n = 10, sx = 3, gridSize = 10 efficiency = 95.0 %
+n = 15, sx = 2, gridSize = 15 efficiency = 95.0 %
+n = 29, sx = 1, gridSize = 29 efficiency = 98.3 %
+_______________________________
+blockSize = 15
+n = 1, sx = 27, gridSize = 1 efficiency = 98.5 %
+n = 2, sx = 14, gridSize = 2 efficiency = 95.0 %
+n = 3, sx = 9, gridSize = 3 efficiency = 98.5 %
+n = 4, sx = 7, gridSize = 4 efficiency = 95.0 %
+n = 5, sx = 6, gridSize = 5 efficiency = 88.7 %
+n = 6, sx = 5, gridSize = 6 efficiency = 88.7 %
+n = 7, sx = 4, gridSize = 7 efficiency = 95.0 %
+n = 9, sx = 3, gridSize = 9 efficiency = 98.5 %
+n = 14, sx = 2, gridSize = 14 efficiency = 95.0 %
+n = 27, sx = 1, gridSize = 27 efficiency = 98.5 %
+_______________________________
+blockSize = 16
+n = 1, sx = 25, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 13, gridSize = 2 efficiency = 95.9 %
+n = 3, sx = 9, gridSize = 3 efficiency = 92.4 %
+n = 4, sx = 7, gridSize = 4 efficiency = 89.1 %
+n = 5, sx = 5, gridSize = 5 efficiency = 99.8 %
+n = 7, sx = 4, gridSize = 7 efficiency = 89.1 %
+n = 9, sx = 3, gridSize = 9 efficiency = 92.4 %
+n = 13, sx = 2, gridSize = 13 efficiency = 95.9 %
+n = 25, sx = 1, gridSize = 25 efficiency = 99.8 %
+_______________________________
+blockSize = 17
+n = 1, sx = 24, gridSize = 1 efficiency = 97.8 %
+n = 2, sx = 12, gridSize = 2 efficiency = 97.8 %
+n = 3, sx = 8, gridSize = 3 efficiency = 97.8 %
+n = 4, sx = 6, gridSize = 4 efficiency = 97.8 %
+n = 5, sx = 5, gridSize = 5 efficiency = 93.9 %
+n = 6, sx = 4, gridSize = 6 efficiency = 97.8 %
+n = 8, sx = 3, gridSize = 8 efficiency = 97.8 %
+n = 12, sx = 2, gridSize = 12 efficiency = 97.8 %
+n = 24, sx = 1, gridSize = 24 efficiency = 97.8 %
+_______________________________
+blockSize = 18
+n = 1, sx = 23, gridSize = 1 efficiency = 96.4 %
+n = 2, sx = 12, gridSize = 2 efficiency = 92.4 %
+n = 3, sx = 8, gridSize = 3 efficiency = 92.4 %
+n = 4, sx = 6, gridSize = 4 efficiency = 92.4 %
+n = 5, sx = 5, gridSize = 5 efficiency = 88.7 %
+n = 6, sx = 4, gridSize = 6 efficiency = 92.4 %
+n = 8, sx = 3, gridSize = 8 efficiency = 92.4 %
+n = 12, sx = 2, gridSize = 12 efficiency = 92.4 %
+n = 23, sx = 1, gridSize = 23 efficiency = 96.4 %
+_______________________________
+blockSize = 19
+n = 1, sx = 21, gridSize = 1 efficiency = 100.0 %
+n = 2, sx = 11, gridSize = 2 efficiency = 95.5 %
+n = 3, sx = 7, gridSize = 3 efficiency = 100.0 %
+n = 4, sx = 6, gridSize = 4 efficiency = 87.5 %
+n = 5, sx = 5, gridSize = 5 efficiency = 84.0 %
+n = 6, sx = 4, gridSize = 6 efficiency = 87.5 %
+n = 7, sx = 3, gridSize = 7 efficiency = 100.0 %
+n = 11, sx = 2, gridSize = 11 efficiency = 95.5 %
+n = 21, sx = 1, gridSize = 21 efficiency = 100.0 %
+_______________________________
+blockSize = 20
+n = 1, sx = 20, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 10, gridSize = 2 efficiency = 99.8 %
+n = 3, sx = 7, gridSize = 3 efficiency = 95.0 %
+n = 4, sx = 5, gridSize = 4 efficiency = 99.8 %
+n = 5, sx = 4, gridSize = 5 efficiency = 99.8 %
+n = 7, sx = 3, gridSize = 7 efficiency = 95.0 %
+n = 10, sx = 2, gridSize = 10 efficiency = 99.8 %
+n = 20, sx = 1, gridSize = 20 efficiency = 99.8 %
+_______________________________
+blockSize = 21
+n = 1, sx = 19, gridSize = 1 efficiency = 100.0 %
+n = 2, sx = 10, gridSize = 2 efficiency = 95.0 %
+n = 3, sx = 7, gridSize = 3 efficiency = 90.5 %
+n = 4, sx = 5, gridSize = 4 efficiency = 95.0 %
+n = 5, sx = 4, gridSize = 5 efficiency = 95.0 %
+n = 7, sx = 3, gridSize = 7 efficiency = 90.5 %
+n = 10, sx = 2, gridSize = 10 efficiency = 95.0 %
+n = 19, sx = 1, gridSize = 19 efficiency = 100.0 %
+_______________________________
+blockSize = 22
+n = 1, sx = 19, gridSize = 1 efficiency = 95.5 %
+n = 2, sx = 10, gridSize = 2 efficiency = 90.7 %
+n = 3, sx = 7, gridSize = 3 efficiency = 86.4 %
+n = 4, sx = 5, gridSize = 4 efficiency = 90.7 %
+n = 5, sx = 4, gridSize = 5 efficiency = 90.7 %
+n = 7, sx = 3, gridSize = 7 efficiency = 86.4 %
+n = 10, sx = 2, gridSize = 10 efficiency = 90.7 %
+n = 19, sx = 1, gridSize = 19 efficiency = 95.5 %
+_______________________________
+blockSize = 23
+n = 1, sx = 18, gridSize = 1 efficiency = 96.4 %
+n = 2, sx = 9, gridSize = 2 efficiency = 96.4 %
+n = 3, sx = 6, gridSize = 3 efficiency = 96.4 %
+n = 4, sx = 5, gridSize = 4 efficiency = 86.7 %
+n = 5, sx = 4, gridSize = 5 efficiency = 86.7 %
+n = 6, sx = 3, gridSize = 6 efficiency = 96.4 %
+n = 9, sx = 2, gridSize = 9 efficiency = 96.4 %
+n = 18, sx = 1, gridSize = 18 efficiency = 96.4 %
+_______________________________
+blockSize = 24
+n = 1, sx = 17, gridSize = 1 efficiency = 97.8 %
+n = 2, sx = 9, gridSize = 2 efficiency = 92.4 %
+n = 3, sx = 6, gridSize = 3 efficiency = 92.4 %
+n = 4, sx = 5, gridSize = 4 efficiency = 83.1 %
+n = 5, sx = 4, gridSize = 5 efficiency = 83.1 %
+n = 6, sx = 3, gridSize = 6 efficiency = 92.4 %
+n = 9, sx = 2, gridSize = 9 efficiency = 92.4 %
+n = 17, sx = 1, gridSize = 17 efficiency = 97.8 %
+_______________________________
+blockSize = 25
+n = 1, sx = 16, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 8, gridSize = 2 efficiency = 99.8 %
+n = 3, sx = 6, gridSize = 3 efficiency = 88.7 %
+n = 4, sx = 4, gridSize = 4 efficiency = 99.8 %
+n = 6, sx = 3, gridSize = 6 efficiency = 88.7 %
+n = 8, sx = 2, gridSize = 8 efficiency = 99.8 %
+n = 16, sx = 1, gridSize = 16 efficiency = 99.8 %
+_______________________________
+blockSize = 26
+n = 1, sx = 16, gridSize = 1 efficiency = 95.9 %
+n = 2, sx = 8, gridSize = 2 efficiency = 95.9 %
+n = 3, sx = 6, gridSize = 3 efficiency = 85.3 %
+n = 4, sx = 4, gridSize = 4 efficiency = 95.9 %
+n = 6, sx = 3, gridSize = 6 efficiency = 85.3 %
+n = 8, sx = 2, gridSize = 8 efficiency = 95.9 %
+n = 16, sx = 1, gridSize = 16 efficiency = 95.9 %
+_______________________________
+blockSize = 27
+n = 1, sx = 15, gridSize = 1 efficiency = 98.5 %
+n = 2, sx = 8, gridSize = 2 efficiency = 92.4 %
+n = 3, sx = 5, gridSize = 3 efficiency = 98.5 %
+n = 4, sx = 4, gridSize = 4 efficiency = 92.4 %
+n = 5, sx = 3, gridSize = 5 efficiency = 98.5 %
+n = 8, sx = 2, gridSize = 8 efficiency = 92.4 %
+n = 15, sx = 1, gridSize = 15 efficiency = 98.5 %
+_______________________________
+blockSize = 28
+n = 1, sx = 15, gridSize = 1 efficiency = 95.0 %
+n = 2, sx = 8, gridSize = 2 efficiency = 89.1 %
+n = 3, sx = 5, gridSize = 3 efficiency = 95.0 %
+n = 4, sx = 4, gridSize = 4 efficiency = 89.1 %
+n = 5, sx = 3, gridSize = 5 efficiency = 95.0 %
+n = 8, sx = 2, gridSize = 8 efficiency = 89.1 %
+n = 15, sx = 1, gridSize = 15 efficiency = 95.0 %
+_______________________________
+blockSize = 29
+n = 1, sx = 14, gridSize = 1 efficiency = 98.3 %
+n = 2, sx = 7, gridSize = 2 efficiency = 98.3 %
+n = 3, sx = 5, gridSize = 3 efficiency = 91.7 %
+n = 4, sx = 4, gridSize = 4 efficiency = 86.0 %
+n = 5, sx = 3, gridSize = 5 efficiency = 91.7 %
+n = 7, sx = 2, gridSize = 7 efficiency = 98.3 %
+n = 14, sx = 1, gridSize = 14 efficiency = 98.3 %
+_______________________________
+blockSize = 30
+n = 1, sx = 14, gridSize = 1 efficiency = 95.0 %
+n = 2, sx = 7, gridSize = 2 efficiency = 95.0 %
+n = 3, sx = 5, gridSize = 3 efficiency = 88.7 %
+n = 4, sx = 4, gridSize = 4 efficiency = 83.1 %
+n = 5, sx = 3, gridSize = 5 efficiency = 88.7 %
+n = 7, sx = 2, gridSize = 7 efficiency = 95.0 %
+n = 14, sx = 1, gridSize = 14 efficiency = 95.0 %
+_______________________________
+blockSize = 31
+n = 1, sx = 13, gridSize = 1 efficiency = 99.0 %
+n = 2, sx = 7, gridSize = 2 efficiency = 91.9 %
+n = 3, sx = 5, gridSize = 3 efficiency = 85.8 %
+n = 4, sx = 4, gridSize = 4 efficiency = 80.4 %
+n = 5, sx = 3, gridSize = 5 efficiency = 85.8 %
+n = 7, sx = 2, gridSize = 7 efficiency = 91.9 %
+n = 13, sx = 1, gridSize = 13 efficiency = 99.0 %
+_______________________________
+blockSize = 32
+n = 1, sx = 13, gridSize = 1 efficiency = 95.9 %
+n = 2, sx = 7, gridSize = 2 efficiency = 89.1 %
+n = 3, sx = 5, gridSize = 3 efficiency = 83.1 %
+n = 4, sx = 4, gridSize = 4 efficiency = 77.9 %
+n = 5, sx = 3, gridSize = 5 efficiency = 83.1 %
+n = 7, sx = 2, gridSize = 7 efficiency = 89.1 %
+n = 13, sx = 1, gridSize = 13 efficiency = 95.9 %
+_______________________________
+blockSize = 33
+n = 1, sx = 13, gridSize = 1 efficiency = 93.0 %
+n = 2, sx = 7, gridSize = 2 efficiency = 86.4 %
+n = 3, sx = 5, gridSize = 3 efficiency = 80.6 %
+n = 4, sx = 4, gridSize = 4 efficiency = 75.6 %
+n = 5, sx = 3, gridSize = 5 efficiency = 80.6 %
+n = 7, sx = 2, gridSize = 7 efficiency = 86.4 %
+n = 13, sx = 1, gridSize = 13 efficiency = 93.0 %
+_______________________________
+blockSize = 34
+n = 1, sx = 12, gridSize = 1 efficiency = 97.8 %
+n = 2, sx = 6, gridSize = 2 efficiency = 97.8 %
+n = 3, sx = 4, gridSize = 3 efficiency = 97.8 %
+n = 4, sx = 3, gridSize = 4 efficiency = 97.8 %
+n = 6, sx = 2, gridSize = 6 efficiency = 97.8 %
+n = 12, sx = 1, gridSize = 12 efficiency = 97.8 %
+_______________________________
+blockSize = 35
+n = 1, sx = 12, gridSize = 1 efficiency = 95.0 %
+n = 2, sx = 6, gridSize = 2 efficiency = 95.0 %
+n = 3, sx = 4, gridSize = 3 efficiency = 95.0 %
+n = 4, sx = 3, gridSize = 4 efficiency = 95.0 %
+n = 6, sx = 2, gridSize = 6 efficiency = 95.0 %
+n = 12, sx = 1, gridSize = 12 efficiency = 95.0 %
+_______________________________
+blockSize = 36
+n = 1, sx = 12, gridSize = 1 efficiency = 92.4 %
+n = 2, sx = 6, gridSize = 2 efficiency = 92.4 %
+n = 3, sx = 4, gridSize = 3 efficiency = 92.4 %
+n = 4, sx = 3, gridSize = 4 efficiency = 92.4 %
+n = 6, sx = 2, gridSize = 6 efficiency = 92.4 %
+n = 12, sx = 1, gridSize = 12 efficiency = 92.4 %
+_______________________________
+blockSize = 37
+n = 1, sx = 11, gridSize = 1 efficiency = 98.0 %
+n = 2, sx = 6, gridSize = 2 efficiency = 89.9 %
+n = 3, sx = 4, gridSize = 3 efficiency = 89.9 %
+n = 4, sx = 3, gridSize = 4 efficiency = 89.9 %
+n = 6, sx = 2, gridSize = 6 efficiency = 89.9 %
+n = 11, sx = 1, gridSize = 11 efficiency = 98.0 %
+_______________________________
+blockSize = 38
+n = 1, sx = 11, gridSize = 1 efficiency = 95.5 %
+n = 2, sx = 6, gridSize = 2 efficiency = 87.5 %
+n = 3, sx = 4, gridSize = 3 efficiency = 87.5 %
+n = 4, sx = 3, gridSize = 4 efficiency = 87.5 %
+n = 6, sx = 2, gridSize = 6 efficiency = 87.5 %
+n = 11, sx = 1, gridSize = 11 efficiency = 95.5 %
+_______________________________
+blockSize = 39
+n = 1, sx = 11, gridSize = 1 efficiency = 93.0 %
+n = 2, sx = 6, gridSize = 2 efficiency = 85.3 %
+n = 3, sx = 4, gridSize = 3 efficiency = 85.3 %
+n = 4, sx = 3, gridSize = 4 efficiency = 85.3 %
+n = 6, sx = 2, gridSize = 6 efficiency = 85.3 %
+n = 11, sx = 1, gridSize = 11 efficiency = 93.0 %
+_______________________________
+blockSize = 40
+n = 1, sx = 10, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 5, gridSize = 2 efficiency = 99.8 %
+n = 3, sx = 4, gridSize = 3 efficiency = 83.1 %
+n = 4, sx = 3, gridSize = 4 efficiency = 83.1 %
+n = 5, sx = 2, gridSize = 5 efficiency = 99.8 %
+n = 10, sx = 1, gridSize = 10 efficiency = 99.8 %
+_______________________________
+blockSize = 41
+n = 1, sx = 10, gridSize = 1 efficiency = 97.3 %
+n = 2, sx = 5, gridSize = 2 efficiency = 97.3 %
+n = 3, sx = 4, gridSize = 3 efficiency = 81.1 %
+n = 4, sx = 3, gridSize = 4 efficiency = 81.1 %
+n = 5, sx = 2, gridSize = 5 efficiency = 97.3 %
+n = 10, sx = 1, gridSize = 10 efficiency = 97.3 %
+_______________________________
+blockSize = 42
+n = 1, sx = 10, gridSize = 1 efficiency = 95.0 %
+n = 2, sx = 5, gridSize = 2 efficiency = 95.0 %
+n = 3, sx = 4, gridSize = 3 efficiency = 79.2 %
+n = 4, sx = 3, gridSize = 4 efficiency = 79.2 %
+n = 5, sx = 2, gridSize = 5 efficiency = 95.0 %
+n = 10, sx = 1, gridSize = 10 efficiency = 95.0 %
+_______________________________
+blockSize = 43
+n = 1, sx = 10, gridSize = 1 efficiency = 92.8 %
+n = 2, sx = 5, gridSize = 2 efficiency = 92.8 %
+n = 3, sx = 4, gridSize = 3 efficiency = 77.3 %
+n = 4, sx = 3, gridSize = 4 efficiency = 77.3 %
+n = 5, sx = 2, gridSize = 5 efficiency = 92.8 %
+n = 10, sx = 1, gridSize = 10 efficiency = 92.8 %
+_______________________________
+blockSize = 44
+n = 1, sx = 10, gridSize = 1 efficiency = 90.7 %
+n = 2, sx = 5, gridSize = 2 efficiency = 90.7 %
+n = 3, sx = 4, gridSize = 3 efficiency = 75.6 %
+n = 4, sx = 3, gridSize = 4 efficiency = 75.6 %
+n = 5, sx = 2, gridSize = 5 efficiency = 90.7 %
+n = 10, sx = 1, gridSize = 10 efficiency = 90.7 %
+_______________________________
+blockSize = 45
+n = 1, sx = 9, gridSize = 1 efficiency = 98.5 %
+n = 2, sx = 5, gridSize = 2 efficiency = 88.7 %
+n = 3, sx = 3, gridSize = 3 efficiency = 98.5 %
+n = 5, sx = 2, gridSize = 5 efficiency = 88.7 %
+n = 9, sx = 1, gridSize = 9 efficiency = 98.5 %
+_______________________________
+blockSize = 46
+n = 1, sx = 9, gridSize = 1 efficiency = 96.4 %
+n = 2, sx = 5, gridSize = 2 efficiency = 86.7 %
+n = 3, sx = 3, gridSize = 3 efficiency = 96.4 %
+n = 5, sx = 2, gridSize = 5 efficiency = 86.7 %
+n = 9, sx = 1, gridSize = 9 efficiency = 96.4 %
+_______________________________
+blockSize = 47
+n = 1, sx = 9, gridSize = 1 efficiency = 94.3 %
+n = 2, sx = 5, gridSize = 2 efficiency = 84.9 %
+n = 3, sx = 3, gridSize = 3 efficiency = 94.3 %
+n = 5, sx = 2, gridSize = 5 efficiency = 84.9 %
+n = 9, sx = 1, gridSize = 9 efficiency = 94.3 %
+_______________________________
+blockSize = 48
+n = 1, sx = 9, gridSize = 1 efficiency = 92.4 %
+n = 2, sx = 5, gridSize = 2 efficiency = 83.1 %
+n = 3, sx = 3, gridSize = 3 efficiency = 92.4 %
+n = 5, sx = 2, gridSize = 5 efficiency = 83.1 %
+n = 9, sx = 1, gridSize = 9 efficiency = 92.4 %
+_______________________________
+blockSize = 49
+n = 1, sx = 9, gridSize = 1 efficiency = 90.5 %
+n = 2, sx = 5, gridSize = 2 efficiency = 81.4 %
+n = 3, sx = 3, gridSize = 3 efficiency = 90.5 %
+n = 5, sx = 2, gridSize = 5 efficiency = 81.4 %
+n = 9, sx = 1, gridSize = 9 efficiency = 90.5 %
+_______________________________
+blockSize = 50
+n = 1, sx = 8, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 4, gridSize = 2 efficiency = 99.8 %
+n = 3, sx = 3, gridSize = 3 efficiency = 88.7 %
+n = 4, sx = 2, gridSize = 4 efficiency = 99.8 %
+n = 8, sx = 1, gridSize = 8 efficiency = 99.8 %
+_______________________________
+blockSize = 51
+n = 1, sx = 8, gridSize = 1 efficiency = 97.8 %
+n = 2, sx = 4, gridSize = 2 efficiency = 97.8 %
+n = 3, sx = 3, gridSize = 3 efficiency = 86.9 %
+n = 4, sx = 2, gridSize = 4 efficiency = 97.8 %
+n = 8, sx = 1, gridSize = 8 efficiency = 97.8 %
+_______________________________
+blockSize = 52
+n = 1, sx = 8, gridSize = 1 efficiency = 95.9 %
+n = 2, sx = 4, gridSize = 2 efficiency = 95.9 %
+n = 3, sx = 3, gridSize = 3 efficiency = 85.3 %
+n = 4, sx = 2, gridSize = 4 efficiency = 95.9 %
+n = 8, sx = 1, gridSize = 8 efficiency = 95.9 %
+_______________________________
+blockSize = 53
+n = 1, sx = 8, gridSize = 1 efficiency = 94.1 %
+n = 2, sx = 4, gridSize = 2 efficiency = 94.1 %
+n = 3, sx = 3, gridSize = 3 efficiency = 83.6 %
+n = 4, sx = 2, gridSize = 4 efficiency = 94.1 %
+n = 8, sx = 1, gridSize = 8 efficiency = 94.1 %
+_______________________________
+blockSize = 54
+n = 1, sx = 8, gridSize = 1 efficiency = 92.4 %
+n = 2, sx = 4, gridSize = 2 efficiency = 92.4 %
+n = 3, sx = 3, gridSize = 3 efficiency = 82.1 %
+n = 4, sx = 2, gridSize = 4 efficiency = 92.4 %
+n = 8, sx = 1, gridSize = 8 efficiency = 92.4 %
+_______________________________
+blockSize = 55
+n = 1, sx = 8, gridSize = 1 efficiency = 90.7 %
+n = 2, sx = 4, gridSize = 2 efficiency = 90.7 %
+n = 3, sx = 3, gridSize = 3 efficiency = 80.6 %
+n = 4, sx = 2, gridSize = 4 efficiency = 90.7 %
+n = 8, sx = 1, gridSize = 8 efficiency = 90.7 %
+_______________________________
+blockSize = 56
+n = 1, sx = 8, gridSize = 1 efficiency = 89.1 %
+n = 2, sx = 4, gridSize = 2 efficiency = 89.1 %
+n = 3, sx = 3, gridSize = 3 efficiency = 79.2 %
+n = 4, sx = 2, gridSize = 4 efficiency = 89.1 %
+n = 8, sx = 1, gridSize = 8 efficiency = 89.1 %
+_______________________________
+blockSize = 57
+n = 1, sx = 7, gridSize = 1 efficiency = 100.0 %
+n = 2, sx = 4, gridSize = 2 efficiency = 87.5 %
+n = 3, sx = 3, gridSize = 3 efficiency = 77.8 %
+n = 4, sx = 2, gridSize = 4 efficiency = 87.5 %
+n = 7, sx = 1, gridSize = 7 efficiency = 100.0 %
+_______________________________
+blockSize = 58
+n = 1, sx = 7, gridSize = 1 efficiency = 98.3 %
+n = 2, sx = 4, gridSize = 2 efficiency = 86.0 %
+n = 3, sx = 3, gridSize = 3 efficiency = 76.4 %
+n = 4, sx = 2, gridSize = 4 efficiency = 86.0 %
+n = 7, sx = 1, gridSize = 7 efficiency = 98.3 %
+_______________________________
+blockSize = 59
+n = 1, sx = 7, gridSize = 1 efficiency = 96.6 %
+n = 2, sx = 4, gridSize = 2 efficiency = 84.5 %
+n = 3, sx = 3, gridSize = 3 efficiency = 75.1 %
+n = 4, sx = 2, gridSize = 4 efficiency = 84.5 %
+n = 7, sx = 1, gridSize = 7 efficiency = 96.6 %
+_______________________________
+blockSize = 60
+n = 1, sx = 7, gridSize = 1 efficiency = 95.0 %
+n = 2, sx = 4, gridSize = 2 efficiency = 83.1 %
+n = 3, sx = 3, gridSize = 3 efficiency = 73.9 %
+n = 4, sx = 2, gridSize = 4 efficiency = 83.1 %
+n = 7, sx = 1, gridSize = 7 efficiency = 95.0 %
+_______________________________
+blockSize = 61
+n = 1, sx = 7, gridSize = 1 efficiency = 93.4 %
+n = 2, sx = 4, gridSize = 2 efficiency = 81.8 %
+n = 3, sx = 3, gridSize = 3 efficiency = 72.7 %
+n = 4, sx = 2, gridSize = 4 efficiency = 81.8 %
+n = 7, sx = 1, gridSize = 7 efficiency = 93.4 %
+_______________________________
+blockSize = 62
+n = 1, sx = 7, gridSize = 1 efficiency = 91.9 %
+n = 2, sx = 4, gridSize = 2 efficiency = 80.4 %
+n = 3, sx = 3, gridSize = 3 efficiency = 71.5 %
+n = 4, sx = 2, gridSize = 4 efficiency = 80.4 %
+n = 7, sx = 1, gridSize = 7 efficiency = 91.9 %
+_______________________________
+blockSize = 63
+n = 1, sx = 7, gridSize = 1 efficiency = 90.5 %
+n = 2, sx = 4, gridSize = 2 efficiency = 79.2 %
+n = 3, sx = 3, gridSize = 3 efficiency = 70.4 %
+n = 4, sx = 2, gridSize = 4 efficiency = 79.2 %
+n = 7, sx = 1, gridSize = 7 efficiency = 90.5 %
+_______________________________
+blockSize = 64
+n = 1, sx = 7, gridSize = 1 efficiency = 89.1 %
+n = 2, sx = 4, gridSize = 2 efficiency = 77.9 %
+n = 3, sx = 3, gridSize = 3 efficiency = 69.3 %
+n = 4, sx = 2, gridSize = 4 efficiency = 77.9 %
+n = 7, sx = 1, gridSize = 7 efficiency = 89.1 %
+_______________________________
+blockSize = 65
+n = 1, sx = 7, gridSize = 1 efficiency = 87.7 %
+n = 2, sx = 4, gridSize = 2 efficiency = 76.7 %
+n = 3, sx = 3, gridSize = 3 efficiency = 68.2 %
+n = 4, sx = 2, gridSize = 4 efficiency = 76.7 %
+n = 7, sx = 1, gridSize = 7 efficiency = 87.7 %
+_______________________________
+blockSize = 66
+n = 1, sx = 7, gridSize = 1 efficiency = 86.4 %
+n = 2, sx = 4, gridSize = 2 efficiency = 75.6 %
+n = 3, sx = 3, gridSize = 3 efficiency = 67.2 %
+n = 4, sx = 2, gridSize = 4 efficiency = 75.6 %
+n = 7, sx = 1, gridSize = 7 efficiency = 86.4 %
+_______________________________
+blockSize = 67
+n = 1, sx = 6, gridSize = 1 efficiency = 99.3 %
+n = 2, sx = 3, gridSize = 2 efficiency = 99.3 %
+n = 3, sx = 2, gridSize = 3 efficiency = 99.3 %
+n = 6, sx = 1, gridSize = 6 efficiency = 99.3 %
+_______________________________
+blockSize = 68
+n = 1, sx = 6, gridSize = 1 efficiency = 97.8 %
+n = 2, sx = 3, gridSize = 2 efficiency = 97.8 %
+n = 3, sx = 2, gridSize = 3 efficiency = 97.8 %
+n = 6, sx = 1, gridSize = 6 efficiency = 97.8 %
+_______________________________
+blockSize = 69
+n = 1, sx = 6, gridSize = 1 efficiency = 96.4 %
+n = 2, sx = 3, gridSize = 2 efficiency = 96.4 %
+n = 3, sx = 2, gridSize = 3 efficiency = 96.4 %
+n = 6, sx = 1, gridSize = 6 efficiency = 96.4 %
+_______________________________
+blockSize = 70
+n = 1, sx = 6, gridSize = 1 efficiency = 95.0 %
+n = 2, sx = 3, gridSize = 2 efficiency = 95.0 %
+n = 3, sx = 2, gridSize = 3 efficiency = 95.0 %
+n = 6, sx = 1, gridSize = 6 efficiency = 95.0 %
+_______________________________
+blockSize = 71
+n = 1, sx = 6, gridSize = 1 efficiency = 93.7 %
+n = 2, sx = 3, gridSize = 2 efficiency = 93.7 %
+n = 3, sx = 2, gridSize = 3 efficiency = 93.7 %
+n = 6, sx = 1, gridSize = 6 efficiency = 93.7 %
+_______________________________
+blockSize = 72
+n = 1, sx = 6, gridSize = 1 efficiency = 92.4 %
+n = 2, sx = 3, gridSize = 2 efficiency = 92.4 %
+n = 3, sx = 2, gridSize = 3 efficiency = 92.4 %
+n = 6, sx = 1, gridSize = 6 efficiency = 92.4 %
+_______________________________
+blockSize = 73
+n = 1, sx = 6, gridSize = 1 efficiency = 91.1 %
+n = 2, sx = 3, gridSize = 2 efficiency = 91.1 %
+n = 3, sx = 2, gridSize = 3 efficiency = 91.1 %
+n = 6, sx = 1, gridSize = 6 efficiency = 91.1 %
+_______________________________
+blockSize = 74
+n = 1, sx = 6, gridSize = 1 efficiency = 89.9 %
+n = 2, sx = 3, gridSize = 2 efficiency = 89.9 %
+n = 3, sx = 2, gridSize = 3 efficiency = 89.9 %
+n = 6, sx = 1, gridSize = 6 efficiency = 89.9 %
+_______________________________
+blockSize = 75
+n = 1, sx = 6, gridSize = 1 efficiency = 88.7 %
+n = 2, sx = 3, gridSize = 2 efficiency = 88.7 %
+n = 3, sx = 2, gridSize = 3 efficiency = 88.7 %
+n = 6, sx = 1, gridSize = 6 efficiency = 88.7 %
+_______________________________
+blockSize = 76
+n = 1, sx = 6, gridSize = 1 efficiency = 87.5 %
+n = 2, sx = 3, gridSize = 2 efficiency = 87.5 %
+n = 3, sx = 2, gridSize = 3 efficiency = 87.5 %
+n = 6, sx = 1, gridSize = 6 efficiency = 87.5 %
+_______________________________
+blockSize = 77
+n = 1, sx = 6, gridSize = 1 efficiency = 86.4 %
+n = 2, sx = 3, gridSize = 2 efficiency = 86.4 %
+n = 3, sx = 2, gridSize = 3 efficiency = 86.4 %
+n = 6, sx = 1, gridSize = 6 efficiency = 86.4 %
+_______________________________
+blockSize = 78
+n = 1, sx = 6, gridSize = 1 efficiency = 85.3 %
+n = 2, sx = 3, gridSize = 2 efficiency = 85.3 %
+n = 3, sx = 2, gridSize = 3 efficiency = 85.3 %
+n = 6, sx = 1, gridSize = 6 efficiency = 85.3 %
+_______________________________
+blockSize = 79
+n = 1, sx = 6, gridSize = 1 efficiency = 84.2 %
+n = 2, sx = 3, gridSize = 2 efficiency = 84.2 %
+n = 3, sx = 2, gridSize = 3 efficiency = 84.2 %
+n = 6, sx = 1, gridSize = 6 efficiency = 84.2 %
+_______________________________
+blockSize = 80
+n = 1, sx = 5, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 3, gridSize = 2 efficiency = 83.1 %
+n = 3, sx = 2, gridSize = 3 efficiency = 83.1 %
+n = 5, sx = 1, gridSize = 5 efficiency = 99.8 %
+_______________________________
+blockSize = 81
+n = 1, sx = 5, gridSize = 1 efficiency = 98.5 %
+n = 2, sx = 3, gridSize = 2 efficiency = 82.1 %
+n = 3, sx = 2, gridSize = 3 efficiency = 82.1 %
+n = 5, sx = 1, gridSize = 5 efficiency = 98.5 %
+_______________________________
+blockSize = 82
+n = 1, sx = 5, gridSize = 1 efficiency = 97.3 %
+n = 2, sx = 3, gridSize = 2 efficiency = 81.1 %
+n = 3, sx = 2, gridSize = 3 efficiency = 81.1 %
+n = 5, sx = 1, gridSize = 5 efficiency = 97.3 %
+_______________________________
+blockSize = 83
+n = 1, sx = 5, gridSize = 1 efficiency = 96.1 %
+n = 2, sx = 3, gridSize = 2 efficiency = 80.1 %
+n = 3, sx = 2, gridSize = 3 efficiency = 80.1 %
+n = 5, sx = 1, gridSize = 5 efficiency = 96.1 %
+_______________________________
+blockSize = 84
+n = 1, sx = 5, gridSize = 1 efficiency = 95.0 %
+n = 2, sx = 3, gridSize = 2 efficiency = 79.2 %
+n = 3, sx = 2, gridSize = 3 efficiency = 79.2 %
+n = 5, sx = 1, gridSize = 5 efficiency = 95.0 %
+_______________________________
+blockSize = 85
+n = 1, sx = 5, gridSize = 1 efficiency = 93.9 %
+n = 2, sx = 3, gridSize = 2 efficiency = 78.2 %
+n = 3, sx = 2, gridSize = 3 efficiency = 78.2 %
+n = 5, sx = 1, gridSize = 5 efficiency = 93.9 %
+_______________________________
+blockSize = 86
+n = 1, sx = 5, gridSize = 1 efficiency = 92.8 %
+n = 2, sx = 3, gridSize = 2 efficiency = 77.3 %
+n = 3, sx = 2, gridSize = 3 efficiency = 77.3 %
+n = 5, sx = 1, gridSize = 5 efficiency = 92.8 %
+_______________________________
+blockSize = 87
+n = 1, sx = 5, gridSize = 1 efficiency = 91.7 %
+n = 2, sx = 3, gridSize = 2 efficiency = 76.4 %
+n = 3, sx = 2, gridSize = 3 efficiency = 76.4 %
+n = 5, sx = 1, gridSize = 5 efficiency = 91.7 %
+_______________________________
+blockSize = 88
+n = 1, sx = 5, gridSize = 1 efficiency = 90.7 %
+n = 2, sx = 3, gridSize = 2 efficiency = 75.6 %
+n = 3, sx = 2, gridSize = 3 efficiency = 75.6 %
+n = 5, sx = 1, gridSize = 5 efficiency = 90.7 %
+_______________________________
+blockSize = 89
+n = 1, sx = 5, gridSize = 1 efficiency = 89.7 %
+n = 2, sx = 3, gridSize = 2 efficiency = 74.7 %
+n = 3, sx = 2, gridSize = 3 efficiency = 74.7 %
+n = 5, sx = 1, gridSize = 5 efficiency = 89.7 %
+_______________________________
+blockSize = 90
+n = 1, sx = 5, gridSize = 1 efficiency = 88.7 %
+n = 2, sx = 3, gridSize = 2 efficiency = 73.9 %
+n = 3, sx = 2, gridSize = 3 efficiency = 73.9 %
+n = 5, sx = 1, gridSize = 5 efficiency = 88.7 %
+_______________________________
+blockSize = 91
+n = 1, sx = 5, gridSize = 1 efficiency = 87.7 %
+n = 2, sx = 3, gridSize = 2 efficiency = 73.1 %
+n = 3, sx = 2, gridSize = 3 efficiency = 73.1 %
+n = 5, sx = 1, gridSize = 5 efficiency = 87.7 %
+_______________________________
+blockSize = 92
+n = 1, sx = 5, gridSize = 1 efficiency = 86.7 %
+n = 2, sx = 3, gridSize = 2 efficiency = 72.3 %
+n = 3, sx = 2, gridSize = 3 efficiency = 72.3 %
+n = 5, sx = 1, gridSize = 5 efficiency = 86.7 %
+_______________________________
+blockSize = 93
+n = 1, sx = 5, gridSize = 1 efficiency = 85.8 %
+n = 2, sx = 3, gridSize = 2 efficiency = 71.5 %
+n = 3, sx = 2, gridSize = 3 efficiency = 71.5 %
+n = 5, sx = 1, gridSize = 5 efficiency = 85.8 %
+_______________________________
+blockSize = 94
+n = 1, sx = 5, gridSize = 1 efficiency = 84.9 %
+n = 2, sx = 3, gridSize = 2 efficiency = 70.7 %
+n = 3, sx = 2, gridSize = 3 efficiency = 70.7 %
+n = 5, sx = 1, gridSize = 5 efficiency = 84.9 %
+_______________________________
+blockSize = 95
+n = 1, sx = 5, gridSize = 1 efficiency = 84.0 %
+n = 2, sx = 3, gridSize = 2 efficiency = 70.0 %
+n = 3, sx = 2, gridSize = 3 efficiency = 70.0 %
+n = 5, sx = 1, gridSize = 5 efficiency = 84.0 %
+_______________________________
+blockSize = 96
+n = 1, sx = 5, gridSize = 1 efficiency = 83.1 %
+n = 2, sx = 3, gridSize = 2 efficiency = 69.3 %
+n = 3, sx = 2, gridSize = 3 efficiency = 69.3 %
+n = 5, sx = 1, gridSize = 5 efficiency = 83.1 %
+_______________________________
+blockSize = 97
+n = 1, sx = 5, gridSize = 1 efficiency = 82.3 %
+n = 2, sx = 3, gridSize = 2 efficiency = 68.6 %
+n = 3, sx = 2, gridSize = 3 efficiency = 68.6 %
+n = 5, sx = 1, gridSize = 5 efficiency = 82.3 %
+_______________________________
+blockSize = 98
+n = 1, sx = 5, gridSize = 1 efficiency = 81.4 %
+n = 2, sx = 3, gridSize = 2 efficiency = 67.9 %
+n = 3, sx = 2, gridSize = 3 efficiency = 67.9 %
+n = 5, sx = 1, gridSize = 5 efficiency = 81.4 %
+_______________________________
+blockSize = 99
+n = 1, sx = 5, gridSize = 1 efficiency = 80.6 %
+n = 2, sx = 3, gridSize = 2 efficiency = 67.2 %
+n = 3, sx = 2, gridSize = 3 efficiency = 67.2 %
+n = 5, sx = 1, gridSize = 5 efficiency = 80.6 %
+_______________________________
+blockSize = 100
+n = 1, sx = 4, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 2, gridSize = 2 efficiency = 99.8 %
+n = 4, sx = 1, gridSize = 4 efficiency = 99.8 %
+_______________________________
+blockSize = 101
+n = 1, sx = 4, gridSize = 1 efficiency = 98.8 %
+n = 2, sx = 2, gridSize = 2 efficiency = 98.8 %
+n = 4, sx = 1, gridSize = 4 efficiency = 98.8 %
+_______________________________
+blockSize = 102
+n = 1, sx = 4, gridSize = 1 efficiency = 97.8 %
+n = 2, sx = 2, gridSize = 2 efficiency = 97.8 %
+n = 4, sx = 1, gridSize = 4 efficiency = 97.8 %
+_______________________________
+blockSize = 103
+n = 1, sx = 4, gridSize = 1 efficiency = 96.8 %
+n = 2, sx = 2, gridSize = 2 efficiency = 96.8 %
+n = 4, sx = 1, gridSize = 4 efficiency = 96.8 %
+_______________________________
+blockSize = 104
+n = 1, sx = 4, gridSize = 1 efficiency = 95.9 %
+n = 2, sx = 2, gridSize = 2 efficiency = 95.9 %
+n = 4, sx = 1, gridSize = 4 efficiency = 95.9 %
+_______________________________
+blockSize = 105
+n = 1, sx = 4, gridSize = 1 efficiency = 95.0 %
+n = 2, sx = 2, gridSize = 2 efficiency = 95.0 %
+n = 4, sx = 1, gridSize = 4 efficiency = 95.0 %
+_______________________________
+blockSize = 106
+n = 1, sx = 4, gridSize = 1 efficiency = 94.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 94.1 %
+n = 4, sx = 1, gridSize = 4 efficiency = 94.1 %
+_______________________________
+blockSize = 107
+n = 1, sx = 4, gridSize = 1 efficiency = 93.2 %
+n = 2, sx = 2, gridSize = 2 efficiency = 93.2 %
+n = 4, sx = 1, gridSize = 4 efficiency = 93.2 %
+_______________________________
+blockSize = 108
+n = 1, sx = 4, gridSize = 1 efficiency = 92.4 %
+n = 2, sx = 2, gridSize = 2 efficiency = 92.4 %
+n = 4, sx = 1, gridSize = 4 efficiency = 92.4 %
+_______________________________
+blockSize = 109
+n = 1, sx = 4, gridSize = 1 efficiency = 91.5 %
+n = 2, sx = 2, gridSize = 2 efficiency = 91.5 %
+n = 4, sx = 1, gridSize = 4 efficiency = 91.5 %
+_______________________________
+blockSize = 110
+n = 1, sx = 4, gridSize = 1 efficiency = 90.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 90.7 %
+n = 4, sx = 1, gridSize = 4 efficiency = 90.7 %
+_______________________________
+blockSize = 111
+n = 1, sx = 4, gridSize = 1 efficiency = 89.9 %
+n = 2, sx = 2, gridSize = 2 efficiency = 89.9 %
+n = 4, sx = 1, gridSize = 4 efficiency = 89.9 %
+_______________________________
+blockSize = 112
+n = 1, sx = 4, gridSize = 1 efficiency = 89.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 89.1 %
+n = 4, sx = 1, gridSize = 4 efficiency = 89.1 %
+_______________________________
+blockSize = 113
+n = 1, sx = 4, gridSize = 1 efficiency = 88.3 %
+n = 2, sx = 2, gridSize = 2 efficiency = 88.3 %
+n = 4, sx = 1, gridSize = 4 efficiency = 88.3 %
+_______________________________
+blockSize = 114
+n = 1, sx = 4, gridSize = 1 efficiency = 87.5 %
+n = 2, sx = 2, gridSize = 2 efficiency = 87.5 %
+n = 4, sx = 1, gridSize = 4 efficiency = 87.5 %
+_______________________________
+blockSize = 115
+n = 1, sx = 4, gridSize = 1 efficiency = 86.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 86.7 %
+n = 4, sx = 1, gridSize = 4 efficiency = 86.7 %
+_______________________________
+blockSize = 116
+n = 1, sx = 4, gridSize = 1 efficiency = 86.0 %
+n = 2, sx = 2, gridSize = 2 efficiency = 86.0 %
+n = 4, sx = 1, gridSize = 4 efficiency = 86.0 %
+_______________________________
+blockSize = 117
+n = 1, sx = 4, gridSize = 1 efficiency = 85.3 %
+n = 2, sx = 2, gridSize = 2 efficiency = 85.3 %
+n = 4, sx = 1, gridSize = 4 efficiency = 85.3 %
+_______________________________
+blockSize = 118
+n = 1, sx = 4, gridSize = 1 efficiency = 84.5 %
+n = 2, sx = 2, gridSize = 2 efficiency = 84.5 %
+n = 4, sx = 1, gridSize = 4 efficiency = 84.5 %
+_______________________________
+blockSize = 119
+n = 1, sx = 4, gridSize = 1 efficiency = 83.8 %
+n = 2, sx = 2, gridSize = 2 efficiency = 83.8 %
+n = 4, sx = 1, gridSize = 4 efficiency = 83.8 %
+_______________________________
+blockSize = 120
+n = 1, sx = 4, gridSize = 1 efficiency = 83.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 83.1 %
+n = 4, sx = 1, gridSize = 4 efficiency = 83.1 %
+_______________________________
+blockSize = 121
+n = 1, sx = 4, gridSize = 1 efficiency = 82.4 %
+n = 2, sx = 2, gridSize = 2 efficiency = 82.4 %
+n = 4, sx = 1, gridSize = 4 efficiency = 82.4 %
+_______________________________
+blockSize = 122
+n = 1, sx = 4, gridSize = 1 efficiency = 81.8 %
+n = 2, sx = 2, gridSize = 2 efficiency = 81.8 %
+n = 4, sx = 1, gridSize = 4 efficiency = 81.8 %
+_______________________________
+blockSize = 123
+n = 1, sx = 4, gridSize = 1 efficiency = 81.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 81.1 %
+n = 4, sx = 1, gridSize = 4 efficiency = 81.1 %
+_______________________________
+blockSize = 124
+n = 1, sx = 4, gridSize = 1 efficiency = 80.4 %
+n = 2, sx = 2, gridSize = 2 efficiency = 80.4 %
+n = 4, sx = 1, gridSize = 4 efficiency = 80.4 %
+_______________________________
+blockSize = 125
+n = 1, sx = 4, gridSize = 1 efficiency = 79.8 %
+n = 2, sx = 2, gridSize = 2 efficiency = 79.8 %
+n = 4, sx = 1, gridSize = 4 efficiency = 79.8 %
+_______________________________
+blockSize = 126
+n = 1, sx = 4, gridSize = 1 efficiency = 79.2 %
+n = 2, sx = 2, gridSize = 2 efficiency = 79.2 %
+n = 4, sx = 1, gridSize = 4 efficiency = 79.2 %
+_______________________________
+blockSize = 127
+n = 1, sx = 4, gridSize = 1 efficiency = 78.5 %
+n = 2, sx = 2, gridSize = 2 efficiency = 78.5 %
+n = 4, sx = 1, gridSize = 4 efficiency = 78.5 %
+_______________________________
+blockSize = 128
+n = 1, sx = 4, gridSize = 1 efficiency = 77.9 %
+n = 2, sx = 2, gridSize = 2 efficiency = 77.9 %
+n = 4, sx = 1, gridSize = 4 efficiency = 77.9 %
+_______________________________
+blockSize = 129
+n = 1, sx = 4, gridSize = 1 efficiency = 77.3 %
+n = 2, sx = 2, gridSize = 2 efficiency = 77.3 %
+n = 4, sx = 1, gridSize = 4 efficiency = 77.3 %
+_______________________________
+blockSize = 130
+n = 1, sx = 4, gridSize = 1 efficiency = 76.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 76.7 %
+n = 4, sx = 1, gridSize = 4 efficiency = 76.7 %
+_______________________________
+blockSize = 131
+n = 1, sx = 4, gridSize = 1 efficiency = 76.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 76.1 %
+n = 4, sx = 1, gridSize = 4 efficiency = 76.1 %
+_______________________________
+blockSize = 132
+n = 1, sx = 4, gridSize = 1 efficiency = 75.6 %
+n = 2, sx = 2, gridSize = 2 efficiency = 75.6 %
+n = 4, sx = 1, gridSize = 4 efficiency = 75.6 %
+_______________________________
+blockSize = 133
+n = 1, sx = 3, gridSize = 1 efficiency = 100.0 %
+n = 2, sx = 2, gridSize = 2 efficiency = 75.0 %
+n = 3, sx = 1, gridSize = 3 efficiency = 100.0 %
+_______________________________
+blockSize = 134
+n = 1, sx = 3, gridSize = 1 efficiency = 99.3 %
+n = 2, sx = 2, gridSize = 2 efficiency = 74.4 %
+n = 3, sx = 1, gridSize = 3 efficiency = 99.3 %
+_______________________________
+blockSize = 135
+n = 1, sx = 3, gridSize = 1 efficiency = 98.5 %
+n = 2, sx = 2, gridSize = 2 efficiency = 73.9 %
+n = 3, sx = 1, gridSize = 3 efficiency = 98.5 %
+_______________________________
+blockSize = 136
+n = 1, sx = 3, gridSize = 1 efficiency = 97.8 %
+n = 2, sx = 2, gridSize = 2 efficiency = 73.3 %
+n = 3, sx = 1, gridSize = 3 efficiency = 97.8 %
+_______________________________
+blockSize = 137
+n = 1, sx = 3, gridSize = 1 efficiency = 97.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 72.8 %
+n = 3, sx = 1, gridSize = 3 efficiency = 97.1 %
+_______________________________
+blockSize = 138
+n = 1, sx = 3, gridSize = 1 efficiency = 96.4 %
+n = 2, sx = 2, gridSize = 2 efficiency = 72.3 %
+n = 3, sx = 1, gridSize = 3 efficiency = 96.4 %
+_______________________________
+blockSize = 139
+n = 1, sx = 3, gridSize = 1 efficiency = 95.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 71.8 %
+n = 3, sx = 1, gridSize = 3 efficiency = 95.7 %
+_______________________________
+blockSize = 140
+n = 1, sx = 3, gridSize = 1 efficiency = 95.0 %
+n = 2, sx = 2, gridSize = 2 efficiency = 71.2 %
+n = 3, sx = 1, gridSize = 3 efficiency = 95.0 %
+_______________________________
+blockSize = 141
+n = 1, sx = 3, gridSize = 1 efficiency = 94.3 %
+n = 2, sx = 2, gridSize = 2 efficiency = 70.7 %
+n = 3, sx = 1, gridSize = 3 efficiency = 94.3 %
+_______________________________
+blockSize = 142
+n = 1, sx = 3, gridSize = 1 efficiency = 93.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 70.2 %
+n = 3, sx = 1, gridSize = 3 efficiency = 93.7 %
+_______________________________
+blockSize = 143
+n = 1, sx = 3, gridSize = 1 efficiency = 93.0 %
+n = 2, sx = 2, gridSize = 2 efficiency = 69.8 %
+n = 3, sx = 1, gridSize = 3 efficiency = 93.0 %
+_______________________________
+blockSize = 144
+n = 1, sx = 3, gridSize = 1 efficiency = 92.4 %
+n = 2, sx = 2, gridSize = 2 efficiency = 69.3 %
+n = 3, sx = 1, gridSize = 3 efficiency = 92.4 %
+_______________________________
+blockSize = 145
+n = 1, sx = 3, gridSize = 1 efficiency = 91.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 68.8 %
+n = 3, sx = 1, gridSize = 3 efficiency = 91.7 %
+_______________________________
+blockSize = 146
+n = 1, sx = 3, gridSize = 1 efficiency = 91.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 68.3 %
+n = 3, sx = 1, gridSize = 3 efficiency = 91.1 %
+_______________________________
+blockSize = 147
+n = 1, sx = 3, gridSize = 1 efficiency = 90.5 %
+n = 2, sx = 2, gridSize = 2 efficiency = 67.9 %
+n = 3, sx = 1, gridSize = 3 efficiency = 90.5 %
+_______________________________
+blockSize = 148
+n = 1, sx = 3, gridSize = 1 efficiency = 89.9 %
+n = 2, sx = 2, gridSize = 2 efficiency = 67.4 %
+n = 3, sx = 1, gridSize = 3 efficiency = 89.9 %
+_______________________________
+blockSize = 149
+n = 1, sx = 3, gridSize = 1 efficiency = 89.3 %
+n = 2, sx = 2, gridSize = 2 efficiency = 66.9 %
+n = 3, sx = 1, gridSize = 3 efficiency = 89.3 %
+_______________________________
+blockSize = 150
+n = 1, sx = 3, gridSize = 1 efficiency = 88.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 66.5 %
+n = 3, sx = 1, gridSize = 3 efficiency = 88.7 %
+_______________________________
+blockSize = 151
+n = 1, sx = 3, gridSize = 1 efficiency = 88.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 66.1 %
+n = 3, sx = 1, gridSize = 3 efficiency = 88.1 %
+_______________________________
+blockSize = 152
+n = 1, sx = 3, gridSize = 1 efficiency = 87.5 %
+n = 2, sx = 2, gridSize = 2 efficiency = 65.6 %
+n = 3, sx = 1, gridSize = 3 efficiency = 87.5 %
+_______________________________
+blockSize = 153
+n = 1, sx = 3, gridSize = 1 efficiency = 86.9 %
+n = 2, sx = 2, gridSize = 2 efficiency = 65.2 %
+n = 3, sx = 1, gridSize = 3 efficiency = 86.9 %
+_______________________________
+blockSize = 154
+n = 1, sx = 3, gridSize = 1 efficiency = 86.4 %
+n = 2, sx = 2, gridSize = 2 efficiency = 64.8 %
+n = 3, sx = 1, gridSize = 3 efficiency = 86.4 %
+_______________________________
+blockSize = 155
+n = 1, sx = 3, gridSize = 1 efficiency = 85.8 %
+n = 2, sx = 2, gridSize = 2 efficiency = 64.4 %
+n = 3, sx = 1, gridSize = 3 efficiency = 85.8 %
+_______________________________
+blockSize = 156
+n = 1, sx = 3, gridSize = 1 efficiency = 85.3 %
+n = 2, sx = 2, gridSize = 2 efficiency = 63.9 %
+n = 3, sx = 1, gridSize = 3 efficiency = 85.3 %
+_______________________________
+blockSize = 157
+n = 1, sx = 3, gridSize = 1 efficiency = 84.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 63.5 %
+n = 3, sx = 1, gridSize = 3 efficiency = 84.7 %
+_______________________________
+blockSize = 158
+n = 1, sx = 3, gridSize = 1 efficiency = 84.2 %
+n = 2, sx = 2, gridSize = 2 efficiency = 63.1 %
+n = 3, sx = 1, gridSize = 3 efficiency = 84.2 %
+_______________________________
+blockSize = 159
+n = 1, sx = 3, gridSize = 1 efficiency = 83.6 %
+n = 2, sx = 2, gridSize = 2 efficiency = 62.7 %
+n = 3, sx = 1, gridSize = 3 efficiency = 83.6 %
+_______________________________
+blockSize = 160
+n = 1, sx = 3, gridSize = 1 efficiency = 83.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 62.3 %
+n = 3, sx = 1, gridSize = 3 efficiency = 83.1 %
+_______________________________
+blockSize = 161
+n = 1, sx = 3, gridSize = 1 efficiency = 82.6 %
+n = 2, sx = 2, gridSize = 2 efficiency = 62.0 %
+n = 3, sx = 1, gridSize = 3 efficiency = 82.6 %
+_______________________________
+blockSize = 162
+n = 1, sx = 3, gridSize = 1 efficiency = 82.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 61.6 %
+n = 3, sx = 1, gridSize = 3 efficiency = 82.1 %
+_______________________________
+blockSize = 163
+n = 1, sx = 3, gridSize = 1 efficiency = 81.6 %
+n = 2, sx = 2, gridSize = 2 efficiency = 61.2 %
+n = 3, sx = 1, gridSize = 3 efficiency = 81.6 %
+_______________________________
+blockSize = 164
+n = 1, sx = 3, gridSize = 1 efficiency = 81.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 60.8 %
+n = 3, sx = 1, gridSize = 3 efficiency = 81.1 %
+_______________________________
+blockSize = 165
+n = 1, sx = 3, gridSize = 1 efficiency = 80.6 %
+n = 2, sx = 2, gridSize = 2 efficiency = 60.5 %
+n = 3, sx = 1, gridSize = 3 efficiency = 80.6 %
+_______________________________
+blockSize = 166
+n = 1, sx = 3, gridSize = 1 efficiency = 80.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 60.1 %
+n = 3, sx = 1, gridSize = 3 efficiency = 80.1 %
+_______________________________
+blockSize = 167
+n = 1, sx = 3, gridSize = 1 efficiency = 79.6 %
+n = 2, sx = 2, gridSize = 2 efficiency = 59.7 %
+n = 3, sx = 1, gridSize = 3 efficiency = 79.6 %
+_______________________________
+blockSize = 168
+n = 1, sx = 3, gridSize = 1 efficiency = 79.2 %
+n = 2, sx = 2, gridSize = 2 efficiency = 59.4 %
+n = 3, sx = 1, gridSize = 3 efficiency = 79.2 %
+_______________________________
+blockSize = 169
+n = 1, sx = 3, gridSize = 1 efficiency = 78.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 59.0 %
+n = 3, sx = 1, gridSize = 3 efficiency = 78.7 %
+_______________________________
+blockSize = 170
+n = 1, sx = 3, gridSize = 1 efficiency = 78.2 %
+n = 2, sx = 2, gridSize = 2 efficiency = 58.7 %
+n = 3, sx = 1, gridSize = 3 efficiency = 78.2 %
+_______________________________
+blockSize = 171
+n = 1, sx = 3, gridSize = 1 efficiency = 77.8 %
+n = 2, sx = 2, gridSize = 2 efficiency = 58.3 %
+n = 3, sx = 1, gridSize = 3 efficiency = 77.8 %
+_______________________________
+blockSize = 172
+n = 1, sx = 3, gridSize = 1 efficiency = 77.3 %
+n = 2, sx = 2, gridSize = 2 efficiency = 58.0 %
+n = 3, sx = 1, gridSize = 3 efficiency = 77.3 %
+_______________________________
+blockSize = 173
+n = 1, sx = 3, gridSize = 1 efficiency = 76.9 %
+n = 2, sx = 2, gridSize = 2 efficiency = 57.7 %
+n = 3, sx = 1, gridSize = 3 efficiency = 76.9 %
+_______________________________
+blockSize = 174
+n = 1, sx = 3, gridSize = 1 efficiency = 76.4 %
+n = 2, sx = 2, gridSize = 2 efficiency = 57.3 %
+n = 3, sx = 1, gridSize = 3 efficiency = 76.4 %
+_______________________________
+blockSize = 175
+n = 1, sx = 3, gridSize = 1 efficiency = 76.0 %
+n = 2, sx = 2, gridSize = 2 efficiency = 57.0 %
+n = 3, sx = 1, gridSize = 3 efficiency = 76.0 %
+_______________________________
+blockSize = 176
+n = 1, sx = 3, gridSize = 1 efficiency = 75.6 %
+n = 2, sx = 2, gridSize = 2 efficiency = 56.7 %
+n = 3, sx = 1, gridSize = 3 efficiency = 75.6 %
+_______________________________
+blockSize = 177
+n = 1, sx = 3, gridSize = 1 efficiency = 75.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 56.4 %
+n = 3, sx = 1, gridSize = 3 efficiency = 75.1 %
+_______________________________
+blockSize = 178
+n = 1, sx = 3, gridSize = 1 efficiency = 74.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 56.0 %
+n = 3, sx = 1, gridSize = 3 efficiency = 74.7 %
+_______________________________
+blockSize = 179
+n = 1, sx = 3, gridSize = 1 efficiency = 74.3 %
+n = 2, sx = 2, gridSize = 2 efficiency = 55.7 %
+n = 3, sx = 1, gridSize = 3 efficiency = 74.3 %
+_______________________________
+blockSize = 180
+n = 1, sx = 3, gridSize = 1 efficiency = 73.9 %
+n = 2, sx = 2, gridSize = 2 efficiency = 55.4 %
+n = 3, sx = 1, gridSize = 3 efficiency = 73.9 %
+_______________________________
+blockSize = 181
+n = 1, sx = 3, gridSize = 1 efficiency = 73.5 %
+n = 2, sx = 2, gridSize = 2 efficiency = 55.1 %
+n = 3, sx = 1, gridSize = 3 efficiency = 73.5 %
+_______________________________
+blockSize = 182
+n = 1, sx = 3, gridSize = 1 efficiency = 73.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 54.8 %
+n = 3, sx = 1, gridSize = 3 efficiency = 73.1 %
+_______________________________
+blockSize = 183
+n = 1, sx = 3, gridSize = 1 efficiency = 72.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 54.5 %
+n = 3, sx = 1, gridSize = 3 efficiency = 72.7 %
+_______________________________
+blockSize = 184
+n = 1, sx = 3, gridSize = 1 efficiency = 72.3 %
+n = 2, sx = 2, gridSize = 2 efficiency = 54.2 %
+n = 3, sx = 1, gridSize = 3 efficiency = 72.3 %
+_______________________________
+blockSize = 185
+n = 1, sx = 3, gridSize = 1 efficiency = 71.9 %
+n = 2, sx = 2, gridSize = 2 efficiency = 53.9 %
+n = 3, sx = 1, gridSize = 3 efficiency = 71.9 %
+_______________________________
+blockSize = 186
+n = 1, sx = 3, gridSize = 1 efficiency = 71.5 %
+n = 2, sx = 2, gridSize = 2 efficiency = 53.6 %
+n = 3, sx = 1, gridSize = 3 efficiency = 71.5 %
+_______________________________
+blockSize = 187
+n = 1, sx = 3, gridSize = 1 efficiency = 71.1 %
+n = 2, sx = 2, gridSize = 2 efficiency = 53.3 %
+n = 3, sx = 1, gridSize = 3 efficiency = 71.1 %
+_______________________________
+blockSize = 188
+n = 1, sx = 3, gridSize = 1 efficiency = 70.7 %
+n = 2, sx = 2, gridSize = 2 efficiency = 53.1 %
+n = 3, sx = 1, gridSize = 3 efficiency = 70.7 %
+_______________________________
+blockSize = 189
+n = 1, sx = 3, gridSize = 1 efficiency = 70.4 %
+n = 2, sx = 2, gridSize = 2 efficiency = 52.8 %
+n = 3, sx = 1, gridSize = 3 efficiency = 70.4 %
+_______________________________
+blockSize = 190
+n = 1, sx = 3, gridSize = 1 efficiency = 70.0 %
+n = 2, sx = 2, gridSize = 2 efficiency = 52.5 %
+n = 3, sx = 1, gridSize = 3 efficiency = 70.0 %
+_______________________________
+blockSize = 191
+n = 1, sx = 3, gridSize = 1 efficiency = 69.6 %
+n = 2, sx = 2, gridSize = 2 efficiency = 52.2 %
+n = 3, sx = 1, gridSize = 3 efficiency = 69.6 %
+_______________________________
+blockSize = 192
+n = 1, sx = 3, gridSize = 1 efficiency = 69.3 %
+n = 2, sx = 2, gridSize = 2 efficiency = 52.0 %
+n = 3, sx = 1, gridSize = 3 efficiency = 69.3 %
+_______________________________
+blockSize = 193
+n = 1, sx = 3, gridSize = 1 efficiency = 68.9 %
+n = 2, sx = 2, gridSize = 2 efficiency = 51.7 %
+n = 3, sx = 1, gridSize = 3 efficiency = 68.9 %
+_______________________________
+blockSize = 194
+n = 1, sx = 3, gridSize = 1 efficiency = 68.6 %
+n = 2, sx = 2, gridSize = 2 efficiency = 51.4 %
+n = 3, sx = 1, gridSize = 3 efficiency = 68.6 %
+_______________________________
+blockSize = 195
+n = 1, sx = 3, gridSize = 1 efficiency = 68.2 %
+n = 2, sx = 2, gridSize = 2 efficiency = 51.2 %
+n = 3, sx = 1, gridSize = 3 efficiency = 68.2 %
+_______________________________
+blockSize = 196
+n = 1, sx = 3, gridSize = 1 efficiency = 67.9 %
+n = 2, sx = 2, gridSize = 2 efficiency = 50.9 %
+n = 3, sx = 1, gridSize = 3 efficiency = 67.9 %
+_______________________________
+blockSize = 197
+n = 1, sx = 3, gridSize = 1 efficiency = 67.5 %
+n = 2, sx = 2, gridSize = 2 efficiency = 50.6 %
+n = 3, sx = 1, gridSize = 3 efficiency = 67.5 %
+_______________________________
+blockSize = 198
+n = 1, sx = 3, gridSize = 1 efficiency = 67.2 %
+n = 2, sx = 2, gridSize = 2 efficiency = 50.4 %
+n = 3, sx = 1, gridSize = 3 efficiency = 67.2 %
+_______________________________
+blockSize = 199
+n = 1, sx = 3, gridSize = 1 efficiency = 66.8 %
+n = 2, sx = 2, gridSize = 2 efficiency = 50.1 %
+n = 3, sx = 1, gridSize = 3 efficiency = 66.8 %
+_______________________________
+blockSize = 200
+n = 1, sx = 2, gridSize = 1 efficiency = 99.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 99.8 %
+_______________________________
+blockSize = 201
+n = 1, sx = 2, gridSize = 1 efficiency = 99.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 99.3 %
+_______________________________
+blockSize = 202
+n = 1, sx = 2, gridSize = 1 efficiency = 98.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 98.8 %
+_______________________________
+blockSize = 203
+n = 1, sx = 2, gridSize = 1 efficiency = 98.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 98.3 %
+_______________________________
+blockSize = 204
+n = 1, sx = 2, gridSize = 1 efficiency = 97.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 97.8 %
+_______________________________
+blockSize = 205
+n = 1, sx = 2, gridSize = 1 efficiency = 97.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 97.3 %
+_______________________________
+blockSize = 206
+n = 1, sx = 2, gridSize = 1 efficiency = 96.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 96.8 %
+_______________________________
+blockSize = 207
+n = 1, sx = 2, gridSize = 1 efficiency = 96.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 96.4 %
+_______________________________
+blockSize = 208
+n = 1, sx = 2, gridSize = 1 efficiency = 95.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 95.9 %
+_______________________________
+blockSize = 209
+n = 1, sx = 2, gridSize = 1 efficiency = 95.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 95.5 %
+_______________________________
+blockSize = 210
+n = 1, sx = 2, gridSize = 1 efficiency = 95.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 95.0 %
+_______________________________
+blockSize = 211
+n = 1, sx = 2, gridSize = 1 efficiency = 94.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 94.5 %
+_______________________________
+blockSize = 212
+n = 1, sx = 2, gridSize = 1 efficiency = 94.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 94.1 %
+_______________________________
+blockSize = 213
+n = 1, sx = 2, gridSize = 1 efficiency = 93.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 93.7 %
+_______________________________
+blockSize = 214
+n = 1, sx = 2, gridSize = 1 efficiency = 93.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 93.2 %
+_______________________________
+blockSize = 215
+n = 1, sx = 2, gridSize = 1 efficiency = 92.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 92.8 %
+_______________________________
+blockSize = 216
+n = 1, sx = 2, gridSize = 1 efficiency = 92.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 92.4 %
+_______________________________
+blockSize = 217
+n = 1, sx = 2, gridSize = 1 efficiency = 91.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 91.9 %
+_______________________________
+blockSize = 218
+n = 1, sx = 2, gridSize = 1 efficiency = 91.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 91.5 %
+_______________________________
+blockSize = 219
+n = 1, sx = 2, gridSize = 1 efficiency = 91.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 91.1 %
+_______________________________
+blockSize = 220
+n = 1, sx = 2, gridSize = 1 efficiency = 90.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 90.7 %
+_______________________________
+blockSize = 221
+n = 1, sx = 2, gridSize = 1 efficiency = 90.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 90.3 %
+_______________________________
+blockSize = 222
+n = 1, sx = 2, gridSize = 1 efficiency = 89.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 89.9 %
+_______________________________
+blockSize = 223
+n = 1, sx = 2, gridSize = 1 efficiency = 89.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 89.5 %
+_______________________________
+blockSize = 224
+n = 1, sx = 2, gridSize = 1 efficiency = 89.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 89.1 %
+_______________________________
+blockSize = 225
+n = 1, sx = 2, gridSize = 1 efficiency = 88.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 88.7 %
+_______________________________
+blockSize = 226
+n = 1, sx = 2, gridSize = 1 efficiency = 88.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 88.3 %
+_______________________________
+blockSize = 227
+n = 1, sx = 2, gridSize = 1 efficiency = 87.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 87.9 %
+_______________________________
+blockSize = 228
+n = 1, sx = 2, gridSize = 1 efficiency = 87.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 87.5 %
+_______________________________
+blockSize = 229
+n = 1, sx = 2, gridSize = 1 efficiency = 87.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 87.1 %
+_______________________________
+blockSize = 230
+n = 1, sx = 2, gridSize = 1 efficiency = 86.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 86.7 %
+_______________________________
+blockSize = 231
+n = 1, sx = 2, gridSize = 1 efficiency = 86.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 86.4 %
+_______________________________
+blockSize = 232
+n = 1, sx = 2, gridSize = 1 efficiency = 86.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 86.0 %
+_______________________________
+blockSize = 233
+n = 1, sx = 2, gridSize = 1 efficiency = 85.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 85.6 %
+_______________________________
+blockSize = 234
+n = 1, sx = 2, gridSize = 1 efficiency = 85.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 85.3 %
+_______________________________
+blockSize = 235
+n = 1, sx = 2, gridSize = 1 efficiency = 84.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 84.9 %
+_______________________________
+blockSize = 236
+n = 1, sx = 2, gridSize = 1 efficiency = 84.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 84.5 %
+_______________________________
+blockSize = 237
+n = 1, sx = 2, gridSize = 1 efficiency = 84.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 84.2 %
+_______________________________
+blockSize = 238
+n = 1, sx = 2, gridSize = 1 efficiency = 83.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 83.8 %
+_______________________________
+blockSize = 239
+n = 1, sx = 2, gridSize = 1 efficiency = 83.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 83.5 %
+_______________________________
+blockSize = 240
+n = 1, sx = 2, gridSize = 1 efficiency = 83.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 83.1 %
+_______________________________
+blockSize = 241
+n = 1, sx = 2, gridSize = 1 efficiency = 82.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 82.8 %
+_______________________________
+blockSize = 242
+n = 1, sx = 2, gridSize = 1 efficiency = 82.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 82.4 %
+_______________________________
+blockSize = 243
+n = 1, sx = 2, gridSize = 1 efficiency = 82.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 82.1 %
+_______________________________
+blockSize = 244
+n = 1, sx = 2, gridSize = 1 efficiency = 81.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 81.8 %
+_______________________________
+blockSize = 245
+n = 1, sx = 2, gridSize = 1 efficiency = 81.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 81.4 %
+_______________________________
+blockSize = 246
+n = 1, sx = 2, gridSize = 1 efficiency = 81.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 81.1 %
+_______________________________
+blockSize = 247
+n = 1, sx = 2, gridSize = 1 efficiency = 80.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 80.8 %
+_______________________________
+blockSize = 248
+n = 1, sx = 2, gridSize = 1 efficiency = 80.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 80.4 %
+_______________________________
+blockSize = 249
+n = 1, sx = 2, gridSize = 1 efficiency = 80.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 80.1 %
+_______________________________
+blockSize = 250
+n = 1, sx = 2, gridSize = 1 efficiency = 79.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 79.8 %
+_______________________________
+blockSize = 251
+n = 1, sx = 2, gridSize = 1 efficiency = 79.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 79.5 %
+_______________________________
+blockSize = 252
+n = 1, sx = 2, gridSize = 1 efficiency = 79.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 79.2 %
+_______________________________
+blockSize = 253
+n = 1, sx = 2, gridSize = 1 efficiency = 78.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 78.9 %
+_______________________________
+blockSize = 254
+n = 1, sx = 2, gridSize = 1 efficiency = 78.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 78.5 %
+_______________________________
+blockSize = 255
+n = 1, sx = 2, gridSize = 1 efficiency = 78.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 78.2 %
+_______________________________
+blockSize = 256
+n = 1, sx = 2, gridSize = 1 efficiency = 77.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 77.9 %
+_______________________________
+blockSize = 257
+n = 1, sx = 2, gridSize = 1 efficiency = 77.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 77.6 %
+_______________________________
+blockSize = 258
+n = 1, sx = 2, gridSize = 1 efficiency = 77.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 77.3 %
+_______________________________
+blockSize = 259
+n = 1, sx = 2, gridSize = 1 efficiency = 77.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 77.0 %
+_______________________________
+blockSize = 260
+n = 1, sx = 2, gridSize = 1 efficiency = 76.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 76.7 %
+_______________________________
+blockSize = 261
+n = 1, sx = 2, gridSize = 1 efficiency = 76.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 76.4 %
+_______________________________
+blockSize = 262
+n = 1, sx = 2, gridSize = 1 efficiency = 76.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 76.1 %
+_______________________________
+blockSize = 263
+n = 1, sx = 2, gridSize = 1 efficiency = 75.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 75.9 %
+_______________________________
+blockSize = 264
+n = 1, sx = 2, gridSize = 1 efficiency = 75.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 75.6 %
+_______________________________
+blockSize = 265
+n = 1, sx = 2, gridSize = 1 efficiency = 75.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 75.3 %
+_______________________________
+blockSize = 266
+n = 1, sx = 2, gridSize = 1 efficiency = 75.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 75.0 %
+_______________________________
+blockSize = 267
+n = 1, sx = 2, gridSize = 1 efficiency = 74.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 74.7 %
+_______________________________
+blockSize = 268
+n = 1, sx = 2, gridSize = 1 efficiency = 74.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 74.4 %
+_______________________________
+blockSize = 269
+n = 1, sx = 2, gridSize = 1 efficiency = 74.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 74.2 %
+_______________________________
+blockSize = 270
+n = 1, sx = 2, gridSize = 1 efficiency = 73.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 73.9 %
+_______________________________
+blockSize = 271
+n = 1, sx = 2, gridSize = 1 efficiency = 73.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 73.6 %
+_______________________________
+blockSize = 272
+n = 1, sx = 2, gridSize = 1 efficiency = 73.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 73.3 %
+_______________________________
+blockSize = 273
+n = 1, sx = 2, gridSize = 1 efficiency = 73.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 73.1 %
+_______________________________
+blockSize = 274
+n = 1, sx = 2, gridSize = 1 efficiency = 72.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 72.8 %
+_______________________________
+blockSize = 275
+n = 1, sx = 2, gridSize = 1 efficiency = 72.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 72.5 %
+_______________________________
+blockSize = 276
+n = 1, sx = 2, gridSize = 1 efficiency = 72.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 72.3 %
+_______________________________
+blockSize = 277
+n = 1, sx = 2, gridSize = 1 efficiency = 72.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 72.0 %
+_______________________________
+blockSize = 278
+n = 1, sx = 2, gridSize = 1 efficiency = 71.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 71.8 %
+_______________________________
+blockSize = 279
+n = 1, sx = 2, gridSize = 1 efficiency = 71.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 71.5 %
+_______________________________
+blockSize = 280
+n = 1, sx = 2, gridSize = 1 efficiency = 71.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 71.2 %
+_______________________________
+blockSize = 281
+n = 1, sx = 2, gridSize = 1 efficiency = 71.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 71.0 %
+_______________________________
+blockSize = 282
+n = 1, sx = 2, gridSize = 1 efficiency = 70.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 70.7 %
+_______________________________
+blockSize = 283
+n = 1, sx = 2, gridSize = 1 efficiency = 70.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 70.5 %
+_______________________________
+blockSize = 284
+n = 1, sx = 2, gridSize = 1 efficiency = 70.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 70.2 %
+_______________________________
+blockSize = 285
+n = 1, sx = 2, gridSize = 1 efficiency = 70.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 70.0 %
+_______________________________
+blockSize = 286
+n = 1, sx = 2, gridSize = 1 efficiency = 69.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 69.8 %
+_______________________________
+blockSize = 287
+n = 1, sx = 2, gridSize = 1 efficiency = 69.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 69.5 %
+_______________________________
+blockSize = 288
+n = 1, sx = 2, gridSize = 1 efficiency = 69.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 69.3 %
+_______________________________
+blockSize = 289
+n = 1, sx = 2, gridSize = 1 efficiency = 69.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 69.0 %
+_______________________________
+blockSize = 290
+n = 1, sx = 2, gridSize = 1 efficiency = 68.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 68.8 %
+_______________________________
+blockSize = 291
+n = 1, sx = 2, gridSize = 1 efficiency = 68.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 68.6 %
+_______________________________
+blockSize = 292
+n = 1, sx = 2, gridSize = 1 efficiency = 68.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 68.3 %
+_______________________________
+blockSize = 293
+n = 1, sx = 2, gridSize = 1 efficiency = 68.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 68.1 %
+_______________________________
+blockSize = 294
+n = 1, sx = 2, gridSize = 1 efficiency = 67.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 67.9 %
+_______________________________
+blockSize = 295
+n = 1, sx = 2, gridSize = 1 efficiency = 67.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 67.6 %
+_______________________________
+blockSize = 296
+n = 1, sx = 2, gridSize = 1 efficiency = 67.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 67.4 %
+_______________________________
+blockSize = 297
+n = 1, sx = 2, gridSize = 1 efficiency = 67.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 67.2 %
+_______________________________
+blockSize = 298
+n = 1, sx = 2, gridSize = 1 efficiency = 66.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 66.9 %
+_______________________________
+blockSize = 299
+n = 1, sx = 2, gridSize = 1 efficiency = 66.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 66.7 %
+_______________________________
+blockSize = 300
+n = 1, sx = 2, gridSize = 1 efficiency = 66.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 66.5 %
+_______________________________
+blockSize = 301
+n = 1, sx = 2, gridSize = 1 efficiency = 66.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 66.3 %
+_______________________________
+blockSize = 302
+n = 1, sx = 2, gridSize = 1 efficiency = 66.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 66.1 %
+_______________________________
+blockSize = 303
+n = 1, sx = 2, gridSize = 1 efficiency = 65.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 65.8 %
+_______________________________
+blockSize = 304
+n = 1, sx = 2, gridSize = 1 efficiency = 65.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 65.6 %
+_______________________________
+blockSize = 305
+n = 1, sx = 2, gridSize = 1 efficiency = 65.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 65.4 %
+_______________________________
+blockSize = 306
+n = 1, sx = 2, gridSize = 1 efficiency = 65.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 65.2 %
+_______________________________
+blockSize = 307
+n = 1, sx = 2, gridSize = 1 efficiency = 65.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 65.0 %
+_______________________________
+blockSize = 308
+n = 1, sx = 2, gridSize = 1 efficiency = 64.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 64.8 %
+_______________________________
+blockSize = 309
+n = 1, sx = 2, gridSize = 1 efficiency = 64.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 64.6 %
+_______________________________
+blockSize = 310
+n = 1, sx = 2, gridSize = 1 efficiency = 64.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 64.4 %
+_______________________________
+blockSize = 311
+n = 1, sx = 2, gridSize = 1 efficiency = 64.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 64.1 %
+_______________________________
+blockSize = 312
+n = 1, sx = 2, gridSize = 1 efficiency = 63.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 63.9 %
+_______________________________
+blockSize = 313
+n = 1, sx = 2, gridSize = 1 efficiency = 63.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 63.7 %
+_______________________________
+blockSize = 314
+n = 1, sx = 2, gridSize = 1 efficiency = 63.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 63.5 %
+_______________________________
+blockSize = 315
+n = 1, sx = 2, gridSize = 1 efficiency = 63.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 63.3 %
+_______________________________
+blockSize = 316
+n = 1, sx = 2, gridSize = 1 efficiency = 63.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 63.1 %
+_______________________________
+blockSize = 317
+n = 1, sx = 2, gridSize = 1 efficiency = 62.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 62.9 %
+_______________________________
+blockSize = 318
+n = 1, sx = 2, gridSize = 1 efficiency = 62.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 62.7 %
+_______________________________
+blockSize = 319
+n = 1, sx = 2, gridSize = 1 efficiency = 62.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 62.5 %
+_______________________________
+blockSize = 320
+n = 1, sx = 2, gridSize = 1 efficiency = 62.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 62.3 %
+_______________________________
+blockSize = 321
+n = 1, sx = 2, gridSize = 1 efficiency = 62.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 62.1 %
+_______________________________
+blockSize = 322
+n = 1, sx = 2, gridSize = 1 efficiency = 62.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 62.0 %
+_______________________________
+blockSize = 323
+n = 1, sx = 2, gridSize = 1 efficiency = 61.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 61.8 %
+_______________________________
+blockSize = 324
+n = 1, sx = 2, gridSize = 1 efficiency = 61.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 61.6 %
+_______________________________
+blockSize = 325
+n = 1, sx = 2, gridSize = 1 efficiency = 61.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 61.4 %
+_______________________________
+blockSize = 326
+n = 1, sx = 2, gridSize = 1 efficiency = 61.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 61.2 %
+_______________________________
+blockSize = 327
+n = 1, sx = 2, gridSize = 1 efficiency = 61.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 61.0 %
+_______________________________
+blockSize = 328
+n = 1, sx = 2, gridSize = 1 efficiency = 60.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 60.8 %
+_______________________________
+blockSize = 329
+n = 1, sx = 2, gridSize = 1 efficiency = 60.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 60.6 %
+_______________________________
+blockSize = 330
+n = 1, sx = 2, gridSize = 1 efficiency = 60.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 60.5 %
+_______________________________
+blockSize = 331
+n = 1, sx = 2, gridSize = 1 efficiency = 60.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 60.3 %
+_______________________________
+blockSize = 332
+n = 1, sx = 2, gridSize = 1 efficiency = 60.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 60.1 %
+_______________________________
+blockSize = 333
+n = 1, sx = 2, gridSize = 1 efficiency = 59.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 59.9 %
+_______________________________
+blockSize = 334
+n = 1, sx = 2, gridSize = 1 efficiency = 59.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 59.7 %
+_______________________________
+blockSize = 335
+n = 1, sx = 2, gridSize = 1 efficiency = 59.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 59.6 %
+_______________________________
+blockSize = 336
+n = 1, sx = 2, gridSize = 1 efficiency = 59.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 59.4 %
+_______________________________
+blockSize = 337
+n = 1, sx = 2, gridSize = 1 efficiency = 59.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 59.2 %
+_______________________________
+blockSize = 338
+n = 1, sx = 2, gridSize = 1 efficiency = 59.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 59.0 %
+_______________________________
+blockSize = 339
+n = 1, sx = 2, gridSize = 1 efficiency = 58.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 58.8 %
+_______________________________
+blockSize = 340
+n = 1, sx = 2, gridSize = 1 efficiency = 58.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 58.7 %
+_______________________________
+blockSize = 341
+n = 1, sx = 2, gridSize = 1 efficiency = 58.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 58.5 %
+_______________________________
+blockSize = 342
+n = 1, sx = 2, gridSize = 1 efficiency = 58.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 58.3 %
+_______________________________
+blockSize = 343
+n = 1, sx = 2, gridSize = 1 efficiency = 58.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 58.2 %
+_______________________________
+blockSize = 344
+n = 1, sx = 2, gridSize = 1 efficiency = 58.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 58.0 %
+_______________________________
+blockSize = 345
+n = 1, sx = 2, gridSize = 1 efficiency = 57.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 57.8 %
+_______________________________
+blockSize = 346
+n = 1, sx = 2, gridSize = 1 efficiency = 57.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 57.7 %
+_______________________________
+blockSize = 347
+n = 1, sx = 2, gridSize = 1 efficiency = 57.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 57.5 %
+_______________________________
+blockSize = 348
+n = 1, sx = 2, gridSize = 1 efficiency = 57.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 57.3 %
+_______________________________
+blockSize = 349
+n = 1, sx = 2, gridSize = 1 efficiency = 57.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 57.2 %
+_______________________________
+blockSize = 350
+n = 1, sx = 2, gridSize = 1 efficiency = 57.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 57.0 %
+_______________________________
+blockSize = 351
+n = 1, sx = 2, gridSize = 1 efficiency = 56.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 56.8 %
+_______________________________
+blockSize = 352
+n = 1, sx = 2, gridSize = 1 efficiency = 56.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 56.7 %
+_______________________________
+blockSize = 353
+n = 1, sx = 2, gridSize = 1 efficiency = 56.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 56.5 %
+_______________________________
+blockSize = 354
+n = 1, sx = 2, gridSize = 1 efficiency = 56.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 56.4 %
+_______________________________
+blockSize = 355
+n = 1, sx = 2, gridSize = 1 efficiency = 56.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 56.2 %
+_______________________________
+blockSize = 356
+n = 1, sx = 2, gridSize = 1 efficiency = 56.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 56.0 %
+_______________________________
+blockSize = 357
+n = 1, sx = 2, gridSize = 1 efficiency = 55.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 55.9 %
+_______________________________
+blockSize = 358
+n = 1, sx = 2, gridSize = 1 efficiency = 55.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 55.7 %
+_______________________________
+blockSize = 359
+n = 1, sx = 2, gridSize = 1 efficiency = 55.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 55.6 %
+_______________________________
+blockSize = 360
+n = 1, sx = 2, gridSize = 1 efficiency = 55.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 55.4 %
+_______________________________
+blockSize = 361
+n = 1, sx = 2, gridSize = 1 efficiency = 55.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 55.3 %
+_______________________________
+blockSize = 362
+n = 1, sx = 2, gridSize = 1 efficiency = 55.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 55.1 %
+_______________________________
+blockSize = 363
+n = 1, sx = 2, gridSize = 1 efficiency = 55.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 55.0 %
+_______________________________
+blockSize = 364
+n = 1, sx = 2, gridSize = 1 efficiency = 54.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 54.8 %
+_______________________________
+blockSize = 365
+n = 1, sx = 2, gridSize = 1 efficiency = 54.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 54.7 %
+_______________________________
+blockSize = 366
+n = 1, sx = 2, gridSize = 1 efficiency = 54.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 54.5 %
+_______________________________
+blockSize = 367
+n = 1, sx = 2, gridSize = 1 efficiency = 54.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 54.4 %
+_______________________________
+blockSize = 368
+n = 1, sx = 2, gridSize = 1 efficiency = 54.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 54.2 %
+_______________________________
+blockSize = 369
+n = 1, sx = 2, gridSize = 1 efficiency = 54.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 54.1 %
+_______________________________
+blockSize = 370
+n = 1, sx = 2, gridSize = 1 efficiency = 53.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 53.9 %
+_______________________________
+blockSize = 371
+n = 1, sx = 2, gridSize = 1 efficiency = 53.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 53.8 %
+_______________________________
+blockSize = 372
+n = 1, sx = 2, gridSize = 1 efficiency = 53.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 53.6 %
+_______________________________
+blockSize = 373
+n = 1, sx = 2, gridSize = 1 efficiency = 53.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 53.5 %
+_______________________________
+blockSize = 374
+n = 1, sx = 2, gridSize = 1 efficiency = 53.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 53.3 %
+_______________________________
+blockSize = 375
+n = 1, sx = 2, gridSize = 1 efficiency = 53.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 53.2 %
+_______________________________
+blockSize = 376
+n = 1, sx = 2, gridSize = 1 efficiency = 53.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 53.1 %
+_______________________________
+blockSize = 377
+n = 1, sx = 2, gridSize = 1 efficiency = 52.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 52.9 %
+_______________________________
+blockSize = 378
+n = 1, sx = 2, gridSize = 1 efficiency = 52.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 52.8 %
+_______________________________
+blockSize = 379
+n = 1, sx = 2, gridSize = 1 efficiency = 52.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 52.6 %
+_______________________________
+blockSize = 380
+n = 1, sx = 2, gridSize = 1 efficiency = 52.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 52.5 %
+_______________________________
+blockSize = 381
+n = 1, sx = 2, gridSize = 1 efficiency = 52.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 52.4 %
+_______________________________
+blockSize = 382
+n = 1, sx = 2, gridSize = 1 efficiency = 52.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 52.2 %
+_______________________________
+blockSize = 383
+n = 1, sx = 2, gridSize = 1 efficiency = 52.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 52.1 %
+_______________________________
+blockSize = 384
+n = 1, sx = 2, gridSize = 1 efficiency = 52.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 52.0 %
+_______________________________
+blockSize = 385
+n = 1, sx = 2, gridSize = 1 efficiency = 51.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 51.8 %
+_______________________________
+blockSize = 386
+n = 1, sx = 2, gridSize = 1 efficiency = 51.7 %
+n = 2, sx = 1, gridSize = 2 efficiency = 51.7 %
+_______________________________
+blockSize = 387
+n = 1, sx = 2, gridSize = 1 efficiency = 51.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 51.6 %
+_______________________________
+blockSize = 388
+n = 1, sx = 2, gridSize = 1 efficiency = 51.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 51.4 %
+_______________________________
+blockSize = 389
+n = 1, sx = 2, gridSize = 1 efficiency = 51.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 51.3 %
+_______________________________
+blockSize = 390
+n = 1, sx = 2, gridSize = 1 efficiency = 51.2 %
+n = 2, sx = 1, gridSize = 2 efficiency = 51.2 %
+_______________________________
+blockSize = 391
+n = 1, sx = 2, gridSize = 1 efficiency = 51.0 %
+n = 2, sx = 1, gridSize = 2 efficiency = 51.0 %
+_______________________________
+blockSize = 392
+n = 1, sx = 2, gridSize = 1 efficiency = 50.9 %
+n = 2, sx = 1, gridSize = 2 efficiency = 50.9 %
+_______________________________
+blockSize = 393
+n = 1, sx = 2, gridSize = 1 efficiency = 50.8 %
+n = 2, sx = 1, gridSize = 2 efficiency = 50.8 %
+_______________________________
+blockSize = 394
+n = 1, sx = 2, gridSize = 1 efficiency = 50.6 %
+n = 2, sx = 1, gridSize = 2 efficiency = 50.6 %
+_______________________________
+blockSize = 395
+n = 1, sx = 2, gridSize = 1 efficiency = 50.5 %
+n = 2, sx = 1, gridSize = 2 efficiency = 50.5 %
+_______________________________
+blockSize = 396
+n = 1, sx = 2, gridSize = 1 efficiency = 50.4 %
+n = 2, sx = 1, gridSize = 2 efficiency = 50.4 %
+_______________________________
+blockSize = 397
+n = 1, sx = 2, gridSize = 1 efficiency = 50.3 %
+n = 2, sx = 1, gridSize = 2 efficiency = 50.3 %
+_______________________________
+blockSize = 398
+n = 1, sx = 2, gridSize = 1 efficiency = 50.1 %
+n = 2, sx = 1, gridSize = 2 efficiency = 50.1 %
+_______________________________
+blockSize = 399
+n = 1, sx = 1, gridSize = 1 efficiency = 100.0 %
+_______________________________
+blockSize = 400
+n = 1, sx = 1, gridSize = 1 efficiency = 99.8 %
+_______________________________
+blockSize = 401
+n = 1, sx = 1, gridSize = 1 efficiency = 99.5 %
+_______________________________
+blockSize = 402
+n = 1, sx = 1, gridSize = 1 efficiency = 99.3 %
+_______________________________
+blockSize = 403
+n = 1, sx = 1, gridSize = 1 efficiency = 99.0 %
+_______________________________
+blockSize = 404
+n = 1, sx = 1, gridSize = 1 efficiency = 98.8 %
+_______________________________
+blockSize = 405
+n = 1, sx = 1, gridSize = 1 efficiency = 98.5 %
+_______________________________
+blockSize = 406
+n = 1, sx = 1, gridSize = 1 efficiency = 98.3 %
+_______________________________
+blockSize = 407
+n = 1, sx = 1, gridSize = 1 efficiency = 98.0 %
+_______________________________
+blockSize = 408
+n = 1, sx = 1, gridSize = 1 efficiency = 97.8 %
+_______________________________
+blockSize = 409
+n = 1, sx = 1, gridSize = 1 efficiency = 97.6 %
+_______________________________
+blockSize = 410
+n = 1, sx = 1, gridSize = 1 efficiency = 97.3 %
+_______________________________
+blockSize = 411
+n = 1, sx = 1, gridSize = 1 efficiency = 97.1 %
+_______________________________
+blockSize = 412
+n = 1, sx = 1, gridSize = 1 efficiency = 96.8 %
+_______________________________
+blockSize = 413
+n = 1, sx = 1, gridSize = 1 efficiency = 96.6 %
+_______________________________
+blockSize = 414
+n = 1, sx = 1, gridSize = 1 efficiency = 96.4 %
+_______________________________
+blockSize = 415
+n = 1, sx = 1, gridSize = 1 efficiency = 96.1 %
+_______________________________
+blockSize = 416
+n = 1, sx = 1, gridSize = 1 efficiency = 95.9 %
+_______________________________
+blockSize = 417
+n = 1, sx = 1, gridSize = 1 efficiency = 95.7 %
+_______________________________
+blockSize = 418
+n = 1, sx = 1, gridSize = 1 efficiency = 95.5 %
+_______________________________
+blockSize = 419
+n = 1, sx = 1, gridSize = 1 efficiency = 95.2 %
+_______________________________
+blockSize = 420
+n = 1, sx = 1, gridSize = 1 efficiency = 95.0 %
+_______________________________
+blockSize = 421
+n = 1, sx = 1, gridSize = 1 efficiency = 94.8 %
+_______________________________
+blockSize = 422
+n = 1, sx = 1, gridSize = 1 efficiency = 94.5 %
+_______________________________
+blockSize = 423
+n = 1, sx = 1, gridSize = 1 efficiency = 94.3 %
+_______________________________
+blockSize = 424
+n = 1, sx = 1, gridSize = 1 efficiency = 94.1 %
+_______________________________
+blockSize = 425
+n = 1, sx = 1, gridSize = 1 efficiency = 93.9 %
+_______________________________
+blockSize = 426
+n = 1, sx = 1, gridSize = 1 efficiency = 93.7 %
+_______________________________
+blockSize = 427
+n = 1, sx = 1, gridSize = 1 efficiency = 93.4 %
+_______________________________
+blockSize = 428
+n = 1, sx = 1, gridSize = 1 efficiency = 93.2 %
+_______________________________
+blockSize = 429
+n = 1, sx = 1, gridSize = 1 efficiency = 93.0 %
+_______________________________
+blockSize = 430
+n = 1, sx = 1, gridSize = 1 efficiency = 92.8 %
+_______________________________
+blockSize = 431
+n = 1, sx = 1, gridSize = 1 efficiency = 92.6 %
+_______________________________
+blockSize = 432
+n = 1, sx = 1, gridSize = 1 efficiency = 92.4 %
+_______________________________
+blockSize = 433
+n = 1, sx = 1, gridSize = 1 efficiency = 92.1 %
+_______________________________
+blockSize = 434
+n = 1, sx = 1, gridSize = 1 efficiency = 91.9 %
+_______________________________
+blockSize = 435
+n = 1, sx = 1, gridSize = 1 efficiency = 91.7 %
+_______________________________
+blockSize = 436
+n = 1, sx = 1, gridSize = 1 efficiency = 91.5 %
+_______________________________
+blockSize = 437
+n = 1, sx = 1, gridSize = 1 efficiency = 91.3 %
+_______________________________
+blockSize = 438
+n = 1, sx = 1, gridSize = 1 efficiency = 91.1 %
+_______________________________
+blockSize = 439
+n = 1, sx = 1, gridSize = 1 efficiency = 90.9 %
+_______________________________
+blockSize = 440
+n = 1, sx = 1, gridSize = 1 efficiency = 90.7 %
+_______________________________
+blockSize = 441
+n = 1, sx = 1, gridSize = 1 efficiency = 90.5 %
+_______________________________
+blockSize = 442
+n = 1, sx = 1, gridSize = 1 efficiency = 90.3 %
+_______________________________
+blockSize = 443
+n = 1, sx = 1, gridSize = 1 efficiency = 90.1 %
+_______________________________
+blockSize = 444
+n = 1, sx = 1, gridSize = 1 efficiency = 89.9 %
+_______________________________
+blockSize = 445
+n = 1, sx = 1, gridSize = 1 efficiency = 89.7 %
+_______________________________
+blockSize = 446
+n = 1, sx = 1, gridSize = 1 efficiency = 89.5 %
+_______________________________
+blockSize = 447
+n = 1, sx = 1, gridSize = 1 efficiency = 89.3 %
+_______________________________
+blockSize = 448
+n = 1, sx = 1, gridSize = 1 efficiency = 89.1 %
+_______________________________
+blockSize = 449
+n = 1, sx = 1, gridSize = 1 efficiency = 88.9 %
+_______________________________
+blockSize = 450
+n = 1, sx = 1, gridSize = 1 efficiency = 88.7 %
+_______________________________
+blockSize = 451
+n = 1, sx = 1, gridSize = 1 efficiency = 88.5 %
+_______________________________
+blockSize = 452
+n = 1, sx = 1, gridSize = 1 efficiency = 88.3 %
+_______________________________
+blockSize = 453
+n = 1, sx = 1, gridSize = 1 efficiency = 88.1 %
+_______________________________
+blockSize = 454
+n = 1, sx = 1, gridSize = 1 efficiency = 87.9 %
+_______________________________
+blockSize = 455
+n = 1, sx = 1, gridSize = 1 efficiency = 87.7 %
+_______________________________
+blockSize = 456
+n = 1, sx = 1, gridSize = 1 efficiency = 87.5 %
+_______________________________
+blockSize = 457
+n = 1, sx = 1, gridSize = 1 efficiency = 87.3 %
+_______________________________
+blockSize = 458
+n = 1, sx = 1, gridSize = 1 efficiency = 87.1 %
+_______________________________
+blockSize = 459
+n = 1, sx = 1, gridSize = 1 efficiency = 86.9 %
+_______________________________
+blockSize = 460
+n = 1, sx = 1, gridSize = 1 efficiency = 86.7 %
+_______________________________
+blockSize = 461
+n = 1, sx = 1, gridSize = 1 efficiency = 86.6 %
+_______________________________
+blockSize = 462
+n = 1, sx = 1, gridSize = 1 efficiency = 86.4 %
+_______________________________
+blockSize = 463
+n = 1, sx = 1, gridSize = 1 efficiency = 86.2 %
+_______________________________
+blockSize = 464
+n = 1, sx = 1, gridSize = 1 efficiency = 86.0 %
+_______________________________
+blockSize = 465
+n = 1, sx = 1, gridSize = 1 efficiency = 85.8 %
+_______________________________
+blockSize = 466
+n = 1, sx = 1, gridSize = 1 efficiency = 85.6 %
+_______________________________
+blockSize = 467
+n = 1, sx = 1, gridSize = 1 efficiency = 85.4 %
+_______________________________
+blockSize = 468
+n = 1, sx = 1, gridSize = 1 efficiency = 85.3 %
+_______________________________
+blockSize = 469
+n = 1, sx = 1, gridSize = 1 efficiency = 85.1 %
+_______________________________
+blockSize = 470
+n = 1, sx = 1, gridSize = 1 efficiency = 84.9 %
+_______________________________
+blockSize = 471
+n = 1, sx = 1, gridSize = 1 efficiency = 84.7 %
+_______________________________
+blockSize = 472
+n = 1, sx = 1, gridSize = 1 efficiency = 84.5 %
+_______________________________
+blockSize = 473
+n = 1, sx = 1, gridSize = 1 efficiency = 84.4 %
+_______________________________
+blockSize = 474
+n = 1, sx = 1, gridSize = 1 efficiency = 84.2 %
+_______________________________
+blockSize = 475
+n = 1, sx = 1, gridSize = 1 efficiency = 84.0 %
+_______________________________
+blockSize = 476
+n = 1, sx = 1, gridSize = 1 efficiency = 83.8 %
+_______________________________
+blockSize = 477
+n = 1, sx = 1, gridSize = 1 efficiency = 83.6 %
+_______________________________
+blockSize = 478
+n = 1, sx = 1, gridSize = 1 efficiency = 83.5 %
+_______________________________
+blockSize = 479
+n = 1, sx = 1, gridSize = 1 efficiency = 83.3 %
+_______________________________
+blockSize = 480
+n = 1, sx = 1, gridSize = 1 efficiency = 83.1 %
+_______________________________
+blockSize = 481
+n = 1, sx = 1, gridSize = 1 efficiency = 83.0 %
+_______________________________
+blockSize = 482
+n = 1, sx = 1, gridSize = 1 efficiency = 82.8 %
+_______________________________
+blockSize = 483
+n = 1, sx = 1, gridSize = 1 efficiency = 82.6 %
+_______________________________
+blockSize = 484
+n = 1, sx = 1, gridSize = 1 efficiency = 82.4 %
+_______________________________
+blockSize = 485
+n = 1, sx = 1, gridSize = 1 efficiency = 82.3 %
+_______________________________
+blockSize = 486
+n = 1, sx = 1, gridSize = 1 efficiency = 82.1 %
+_______________________________
+blockSize = 487
+n = 1, sx = 1, gridSize = 1 efficiency = 81.9 %
+_______________________________
+blockSize = 488
+n = 1, sx = 1, gridSize = 1 efficiency = 81.8 %
+_______________________________
+blockSize = 489
+n = 1, sx = 1, gridSize = 1 efficiency = 81.6 %
+_______________________________
+blockSize = 490
+n = 1, sx = 1, gridSize = 1 efficiency = 81.4 %
+_______________________________
+blockSize = 491
+n = 1, sx = 1, gridSize = 1 efficiency = 81.3 %
+_______________________________
+blockSize = 492
+n = 1, sx = 1, gridSize = 1 efficiency = 81.1 %
+_______________________________
+blockSize = 493
+n = 1, sx = 1, gridSize = 1 efficiency = 80.9 %
+_______________________________
+blockSize = 494
+n = 1, sx = 1, gridSize = 1 efficiency = 80.8 %
+_______________________________
+blockSize = 495
+n = 1, sx = 1, gridSize = 1 efficiency = 80.6 %
+_______________________________
+blockSize = 496
+n = 1, sx = 1, gridSize = 1 efficiency = 80.4 %
+_______________________________
+blockSize = 497
+n = 1, sx = 1, gridSize = 1 efficiency = 80.3 %
+_______________________________
+blockSize = 498
+n = 1, sx = 1, gridSize = 1 efficiency = 80.1 %
+_______________________________
+blockSize = 499
+n = 1, sx = 1, gridSize = 1 efficiency = 80.0 %
+_______________________________
+blockSize = 500
+n = 1, sx = 1, gridSize = 1 efficiency = 79.8 %
+_______________________________
+blockSize = 501
+n = 1, sx = 1, gridSize = 1 efficiency = 79.6 %
+_______________________________
+blockSize = 502
+n = 1, sx = 1, gridSize = 1 efficiency = 79.5 %
+_______________________________
+blockSize = 503
+n = 1, sx = 1, gridSize = 1 efficiency = 79.3 %
+_______________________________
+blockSize = 504
+n = 1, sx = 1, gridSize = 1 efficiency = 79.2 %
+_______________________________
+blockSize = 505
+n = 1, sx = 1, gridSize = 1 efficiency = 79.0 %
+_______________________________
+blockSize = 506
+n = 1, sx = 1, gridSize = 1 efficiency = 78.9 %
+_______________________________
+blockSize = 507
+n = 1, sx = 1, gridSize = 1 efficiency = 78.7 %
+_______________________________
+blockSize = 508
+n = 1, sx = 1, gridSize = 1 efficiency = 78.5 %
+_______________________________
+blockSize = 509
+n = 1, sx = 1, gridSize = 1 efficiency = 78.4 %
+_______________________________
+blockSize = 510
+n = 1, sx = 1, gridSize = 1 efficiency = 78.2 %
+_______________________________
+blockSize = 511
+n = 1, sx = 1, gridSize = 1 efficiency = 78.1 %
+_______________________________
+blockSize = 512
+n = 1, sx = 1, gridSize = 1 efficiency = 77.9 %
